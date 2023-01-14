@@ -236,6 +236,7 @@
 
 ## Others 
 
+- [kohei-shinden/awesome-stars](https://github.com/kohei-shinden/awesome-stars) - A curated list of my GitHub stars!
 - [OnYuKang/Recommendation-systems-paperlist](https://github.com/OnYuKang/Recommendation-systems-paperlist) - Papers about recommendation systems that I am interested in
 - [RUCAIBox/RecBole2.0](https://github.com/RUCAIBox/RecBole2.0) - An  up-to-date, comprehensive and flexible recommendation library
 - [masamasa59/uncertainty-paper](https://github.com/masamasa59/uncertainty-paper) - 
