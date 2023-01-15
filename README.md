@@ -236,6 +236,7 @@
 
 ## Others 
 
+- [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
 - [kohei-shinden/awesome-stars](https://github.com/kohei-shinden/awesome-stars) - A curated list of my GitHub stars!
 - [OnYuKang/Recommendation-systems-paperlist](https://github.com/OnYuKang/Recommendation-systems-paperlist) - Papers about recommendation systems that I am interested in
 - [RUCAIBox/RecBole2.0](https://github.com/RUCAIBox/RecBole2.0) - An  up-to-date, comprehensive and flexible recommendation library
@@ -275,6 +276,7 @@
 
 ## Python 
 
+- [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sisinflab/elliot](https://github.com/sisinflab/elliot) - Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
