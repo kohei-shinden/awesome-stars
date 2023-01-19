@@ -105,6 +105,7 @@
 
 ## ai 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -138,6 +139,7 @@
 
 ## artificial-intelligence 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
@@ -204,6 +206,7 @@
 
 ## computer-vision 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
 - [AtomScott/SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
@@ -277,6 +280,7 @@
 
 ## deep-learning 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
@@ -520,6 +524,7 @@
 
 ## machine-learning 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [sisinflab/elliot](https://github.com/sisinflab/elliot) - Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
@@ -632,6 +637,7 @@
 
 ## nlp 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [PaddlePaddle/RocketQA](https://github.com/PaddlePaddle/RocketQA) - 🚀 RocketQA, dense retrieval for information retrieval and question answering, including both Chinese and English state-of-the-art models.
@@ -684,6 +690,7 @@
 
 ## others 
 
+- [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of
 - [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
 - [kohei-shinden/awesome-stars](https://github.com/kohei-shinden/awesome-stars) - A curated list of my GitHub stars!
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
