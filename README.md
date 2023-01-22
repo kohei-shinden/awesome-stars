@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [joisino/clear](https://github.com/joisino/clear) - A fully user-side image search engine. Accepted to CIKM 2022 demo track.
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
