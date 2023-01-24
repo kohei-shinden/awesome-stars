@@ -279,6 +279,7 @@
 
 ## Python 
 
+- [JDA-DM/mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
 - [kavehhassani/mvgrl](https://github.com/kavehhassani/mvgrl) - 
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
