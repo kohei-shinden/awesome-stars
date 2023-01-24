@@ -704,6 +704,7 @@
 
 ## others 
 
+- [JDA-DM/mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
 - [kavehhassani/mvgrl](https://github.com/kavehhassani/mvgrl) - 
 - [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of
