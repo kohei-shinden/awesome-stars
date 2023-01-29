@@ -359,7 +359,7 @@
 - [S-aiueo32/lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) - A simple and useful implementation of LPIPS.
 - [castorini/bertserini](https://github.com/castorini/bertserini) - BERTserini
 - [microsoft/MSMARCO-Passage-Ranking-Submissions](https://github.com/microsoft/MSMARCO-Passage-Ranking-Submissions) - Submission archive for the MS MARCO passage ranking leaderboard
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [hltcoe/HC4](https://github.com/hltcoe/HC4) - HLTCOE CLIR Common-Crawl Collection
