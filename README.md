@@ -235,7 +235,7 @@
 
 ## OpenEdge ABL 
 
-- [fanyun-sun/graph-classification](https://github.com/fanyun-sun/graph-classification) - A collection of graph classification methods
+- [sunfanyunn/graph-classification](https://github.com/sunfanyunn/graph-classification) - A collection of graph classification methods
 - [declare-lab/multimodal-deep-learning](https://github.com/declare-lab/multimodal-deep-learning) - This repository contains various models targetting multimodal representation learning, multimodal fusion for downstream tasks such as multimodal sentiment analysis.
 
 ## OpenQASM 
