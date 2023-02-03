@@ -19,6 +19,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
@@ -198,6 +199,10 @@
 ## bot 
 
 - [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) - LINE Messaging API SDK for Go
+
+## chatgpt 
+
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 
 ## cli 
 
@@ -842,7 +847,7 @@
 - [m3dev/cookiecutter-gokart](https://github.com/m3dev/cookiecutter-gokart) - cookiecutter for gokart
 - [krishnanlab/PecanPy_benchmarks](https://github.com/krishnanlab/PecanPy_benchmarks) - 
 - [krishnanlab/PecanPy](https://github.com/krishnanlab/PecanPy) - A fast, parallelized, memory efficient, and cache-optimized Python implementation of node2vec
-- [fanyun-sun/graph-classification](https://github.com/fanyun-sun/graph-classification) - A collection of graph classification methods
+- [sunfanyunn/graph-classification](https://github.com/sunfanyunn/graph-classification) - A collection of graph classification methods
 - [sansan-inc/OneNER](https://github.com/sansan-inc/OneNER) - 
 - [st-tech/zr-obp](https://github.com/st-tech/zr-obp) - Open Bandit Pipeline: a python library for bandit algorithms and off-policy evaluation
 - [nttcslab/japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) - Code for evaluating Japanese pretrained models provided by NTT Ltd.
