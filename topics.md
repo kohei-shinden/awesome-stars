@@ -112,7 +112,7 @@
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -203,6 +203,7 @@
 ## chatgpt 
 
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 
 ## cli 
 
@@ -258,6 +259,7 @@
 
 ## data-science 
 
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [AtomScott/SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
@@ -576,7 +578,7 @@
 - [plasticityai/magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package.
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
@@ -670,7 +672,7 @@
 - [megagonlabs/t5-japanese](https://github.com/megagonlabs/t5-japanese) - Codes to pre-train Japanese T5 models
 - [plasticityai/magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package.
 - [bab2min/tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: An Industry and Research Integrated Platform for Federated Learning in Natural Language Processing, Backed by FedML, Inc. The Previous Research Version is Accepted to NAACL 2022
@@ -709,6 +711,12 @@
 
 ## others 
 
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
+- [oshizo/JapaneseEmbeddingTrain](https://github.com/oshizo/JapaneseEmbeddingTrain) - 
+- [oshizo/gpt_index_japanese_trial](https://github.com/oshizo/gpt_index_japanese_trial) - 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
 - [ielab/Counterfactual-DR](https://github.com/ielab/Counterfactual-DR) - The official repository for 'Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach', Shengyao Zhuang, Hang Li and Guido Zuccon, SIGIR2022
 - [HazyResearch/H3](https://github.com/HazyResearch/H3) - Language Modeling with the H3 State Space Model
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -1047,7 +1055,7 @@
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
@@ -1103,7 +1111,7 @@
 - [arthurdouillard/deepcourse](https://github.com/arthurdouillard/deepcourse) - Learn the Deep Learning for Computer Vision in three steps: theory from base to SotA, code in PyTorch, and space-repetition with Anki
 - [nikhilbarhate99/PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) - Structural implementation of RL key algorithms
 - [dongminlee94/deep_rl](https://github.com/dongminlee94/deep_rl) - PyTorch implementation of deep reinforcement learning algorithms
 - [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL) - PyTorch implementation of Deep Reinforcement Learning: Policy Gradient methods (TRPO, PPO, A2C) and Generative Adversarial Imitation Learning (GAIL). Fast Fisher vector product TRPO.
@@ -1125,6 +1133,7 @@
 
 ## r 
 
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
