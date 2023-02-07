@@ -289,6 +289,7 @@
 
 ## Python 
 
+- [yaoxingcheng/TLM](https://github.com/yaoxingcheng/TLM) - ICML'2022: NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
@@ -438,7 +439,7 @@
 - [megagonlabs/jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [nikhilbarhate99/PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch
-- [Linear95/BinarySentEmb](https://github.com/Linear95/BinarySentEmb) - Code for the ACL 2019 oral paper - Learning Compressed Sentence Representations for On-Device Text Processing.
+- [Linear95/BinarySentEmb](https://github.com/Linear95/BinarySentEmb) - Code for ACL 2019 oral paper - Learning Compressed Sentence Representations for On-Device Text Processing.
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) - The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [hanjialiang/DeepRec](https://github.com/hanjialiang/DeepRec) - Code for the WWW 2021 paper - DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce
