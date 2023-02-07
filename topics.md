@@ -711,6 +711,7 @@
 
 ## others 
 
+- [yaoxingcheng/TLM](https://github.com/yaoxingcheng/TLM) - ICML'2022: NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
@@ -874,7 +875,7 @@
 - [hideojoho/kb](https://github.com/hideojoho/kb) - Joho Lab Knowledge Base 上保研究室ナレッジベース 1.0
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [sammy-suyama/BayesBook](https://github.com/sammy-suyama/BayesBook) - 「機械学習スタートアップシリーズ ベイズ推論による機械学習入門」のサンプルコード
-- [Linear95/BinarySentEmb](https://github.com/Linear95/BinarySentEmb) - Code for the ACL 2019 oral paper - Learning Compressed Sentence Representations for On-Device Text Processing.
+- [Linear95/BinarySentEmb](https://github.com/Linear95/BinarySentEmb) - Code for ACL 2019 oral paper - Learning Compressed Sentence Representations for On-Device Text Processing.
 - [takitsuba/midoribon](https://github.com/takitsuba/midoribon) - 
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
