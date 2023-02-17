@@ -822,7 +822,7 @@
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
 - [kn1cht/doctor-funding-calendar](https://github.com/kn1cht/doctor-funding-calendar) - Calendar of doctoral students funding programs
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
-- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - 
+- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
 - [mooreniemi/suntan](https://github.com/mooreniemi/suntan) - A utility to dump Elasticsearch Lucene shards into Tantivy.
@@ -900,7 +900,7 @@
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
 - [isucon/isucon11-prior](https://github.com/isucon/isucon11-prior) - 
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
-- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications
+- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
 - [nvedant07/Fairness-Through-Robustness](https://github.com/nvedant07/Fairness-Through-Robustness) - Official code for FAccT'21 paper "Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning" https://arxiv.org/abs/2006.12621
