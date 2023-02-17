@@ -191,7 +191,7 @@
 - [stockmarkteam/bert-book](https://github.com/stockmarkteam/bert-book) - 「BERTによる自然言語処理入門: Transformersを使った実践プログラミング」サポートページ
 - [takitsuba/midoribon](https://github.com/takitsuba/midoribon) - 
 - [jkatsuta/18_4q_doc2vec](https://github.com/jkatsuta/18_4q_doc2vec) - 18-4Q blog's note
-- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications
+- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
 - [nvedant07/Fairness-Through-Robustness](https://github.com/nvedant07/Fairness-Through-Robustness) - Official code for FAccT'21 paper "Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning" https://arxiv.org/abs/2006.12621
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [c4ra/kaken_parse_grants_masterxml](https://github.com/c4ra/kaken_parse_grants_masterxml) - KAKENデータベースからXMLファイルをダウンロードして、課題ごとに必要な項目をローカルのデータベースに保存します。
@@ -385,7 +385,7 @@
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
-- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - 
+- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
 - [jtibshirani/text-embeddings](https://github.com/jtibshirani/text-embeddings) - 
 - [GemsLab/REGAL](https://github.com/GemsLab/REGAL) - Representation learning-based graph alignment based on implicit matrix factorization and structural embeddings
