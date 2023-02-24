@@ -30,6 +30,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -236,7 +237,6 @@
 
 ## Makefile 
 
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
@@ -628,6 +628,10 @@
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [p1ass/mdtopdf](https://github.com/p1ass/mdtopdf) - 🐳 Pandoc docker image for converting markdown to PDF using TeX typesetting
+
+## Smarty 
+
+- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
 
 ## TeX 
 
