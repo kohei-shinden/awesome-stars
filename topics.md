@@ -733,6 +733,7 @@
 
 ## others 
 
+- [shunk031/huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
 - [facebookresearch/dpr-scale](https://github.com/facebookresearch/dpr-scale) - Scalable training for dense retrieval models.
 - [minosvasilias/toolformer-zero](https://github.com/minosvasilias/toolformer-zero) - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
