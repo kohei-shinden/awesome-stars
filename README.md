@@ -462,7 +462,7 @@
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [hanjialiang/DeepRec](https://github.com/hanjialiang/DeepRec) - Code for the WWW 2021 paper - DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce
 - [tmu-nlp/JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) - Japanese Word Similarity Dataset
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
