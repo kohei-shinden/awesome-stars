@@ -326,7 +326,7 @@
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [INK-USC/RE-Net](https://github.com/INK-USC/RE-Net) - Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)
 - [hungthanhpham94/GRU4REC-pytorch](https://github.com/hungthanhpham94/GRU4REC-pytorch) - An other implementation of GRU4REC using PyTorch
-- [openai/tiktoken](https://github.com/openai/tiktoken) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [castorini/mr.tydi](https://github.com/castorini/mr.tydi) - Mr. TyDi is a multi-lingual benchmark dataset built on TyDi, covering eleven typologically diverse languages.
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning
 - [rejasupotaro/amazon-product-search](https://github.com/rejasupotaro/amazon-product-search) - 
