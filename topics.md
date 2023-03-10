@@ -320,6 +320,7 @@
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [alibaba/HybridBackend](https://github.com/alibaba/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
@@ -660,6 +661,7 @@
 ## neural-network 
 
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+- [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -768,7 +770,7 @@
 - [INK-USC/RE-Net](https://github.com/INK-USC/RE-Net) - Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)
 - [hungthanhpham94/GRU4REC-pytorch](https://github.com/hungthanhpham94/GRU4REC-pytorch) - An other implementation of GRU4REC using PyTorch
 - [recsyslab/recsys-text](https://github.com/recsyslab/recsys-text) - 
-- [openai/tiktoken](https://github.com/openai/tiktoken) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [castorini/mr.tydi](https://github.com/castorini/mr.tydi) - Mr. TyDi is a multi-lingual benchmark dataset built on TyDi, covering eleven typologically diverse languages.
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning
 - [rejasupotaro/amazon-product-search](https://github.com/rejasupotaro/amazon-product-search) - 
@@ -807,7 +809,6 @@
 - [yahoojapan/JGLUE](https://github.com/yahoojapan/JGLUE) - JGLUE: Japanese General Language Understanding Evaluation
 - [ghmagazine/cibook](https://github.com/ghmagazine/cibook) - 
 - [kwakaba/mlpr-class](https://github.com/kwakaba/mlpr-class) - 
-- [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [irecsys/CARSKit](https://github.com/irecsys/CARSKit) - Java-Based Context-aware Recommendation Library
 - [hppRC/template-pytorch-lightning-hydra-mlflow-poetry](https://github.com/hppRC/template-pytorch-lightning-hydra-mlflow-poetry) - An easy to use ML template project using Pytorch-Lightning, Hydra, Mlflow, and Poetry.
 - [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
@@ -1139,6 +1140,7 @@
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [hand10ryo/PyTorchCML](https://github.com/hand10ryo/PyTorchCML) - PyTorchCML is a library of PyTorch implementations of matrix factorization (MF) and collaborative metric learning (CML), algorithms used in recommendation systems and data mining.
+- [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [texttron/tevatron](https://github.com/texttron/tevatron) - Tevatron - A flexible toolkit for dense retrieval research and development.
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
