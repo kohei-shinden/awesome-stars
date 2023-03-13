@@ -312,7 +312,7 @@
 - [yaoxingcheng/TLM](https://github.com/yaoxingcheng/TLM) - ICML'2022: NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [ielab/Counterfactual-DR](https://github.com/ielab/Counterfactual-DR) - The official repository for 'Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach', Shengyao Zhuang, Hang Li and Guido Zuccon, SIGIR2022
 - [JDA-DM/mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
