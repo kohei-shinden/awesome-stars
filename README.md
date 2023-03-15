@@ -295,6 +295,7 @@
 
 ## Python 
 
+- [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [Anaig/OpenAI-and-Cognitive-Search](https://github.com/Anaig/OpenAI-and-Cognitive-Search) - Azure OpenAI integration as a custom skillset in Azure Cognitive Search
 - [hurutoriya/doraemon-himitsu-dogu-search](https://github.com/hurutoriya/doraemon-himitsu-dogu-search) - Doraemon Himitsu Dogu Japanese hybrid search based on Elascticsearch ANN x multi match
 - [namuan/dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
@@ -419,7 +420,7 @@
 - [cl-tohoku/AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
 - [hical/HiCAL](https://github.com/hical/HiCAL) - HiCAL is a system for efficient high-recall retrieval with an adaptable assessing interface.
 - [PengjieRen/CaSE_WISE](https://github.com/PengjieRen/CaSE_WISE) - This repo contains the code and data used in the paper "Wizard of Search Engine: Access to Information Through Conversations with Search Engines"
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
 - [baharefatemi/SimplE](https://github.com/baharefatemi/SimplE) - Implementation of SimplE Embedding for Link Prediction in Knowledge Graphs in PyTorch
 - [Mehran-k/SimplE](https://github.com/Mehran-k/SimplE) - SimplE Embedding for Link Prediction in Knowledge Graphs
