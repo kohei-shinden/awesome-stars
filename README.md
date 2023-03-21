@@ -295,6 +295,7 @@
 
 ## Python 
 
+- [earth-genome/ChatGeoPT](https://github.com/earth-genome/ChatGeoPT) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [Anaig/OpenAI-and-Cognitive-Search](https://github.com/Anaig/OpenAI-and-Cognitive-Search) - Azure OpenAI integration as a custom skillset in Azure Cognitive Search
 - [hurutoriya/doraemon-himitsu-dogu-search](https://github.com/hurutoriya/doraemon-himitsu-dogu-search) - Doraemon Himitsu Dogu Japanese hybrid search based on Elascticsearch ANN x multi match
