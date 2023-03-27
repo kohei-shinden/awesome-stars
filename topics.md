@@ -207,6 +207,8 @@
 
 ## chatgpt 
 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
@@ -305,6 +307,7 @@
 
 ## deep-learning 
 
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
@@ -737,6 +740,7 @@
 
 ## others 
 
+- [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - 
 - [earth-genome/ChatGeoPT](https://github.com/earth-genome/ChatGeoPT) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1132,6 +1136,7 @@
 
 ## pytorch 
 
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces) - Sequence Modeling with Structured State Spaces
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
