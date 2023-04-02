@@ -628,6 +628,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [aditya-grover/node2vec](https://github.com/aditya-grover/node2vec) - 
 - [dstlry/dstlr](https://github.com/dstlry/dstlr) - scalable knowledge graph construction from unstructured text
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
