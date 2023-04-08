@@ -20,6 +20,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
@@ -36,6 +37,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
@@ -217,6 +219,10 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## cli 
 
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
@@ -397,6 +403,12 @@
 
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [Qiskit/qiskit-metapackage](https://github.com/Qiskit/qiskit-metapackage) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+
+## education 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [sebastian-hofstaetter/teaching](https://github.com/sebastian-hofstaetter/teaching) - Open-Source Information Retrieval Courses @ TU Wien
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## electron 
 
