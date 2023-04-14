@@ -334,7 +334,7 @@
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
-- [alibaba/HybridBackend](https://github.com/alibaba/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
+- [DeepRec-AI/HybridBackend](https://github.com/DeepRec-AI/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
