@@ -55,7 +55,7 @@
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - An in-process property graph database management system built for query speed and scalability.
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
-- [alibaba/HybridBackend](https://github.com/alibaba/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
+- [DeepRec-AI/HybridBackend](https://github.com/DeepRec-AI/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
 - [tangjianpku/LINE](https://github.com/tangjianpku/LINE) - LINE: Large-scale information network embedding
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [TatsuyaShirakawa/poincare-embedding](https://github.com/TatsuyaShirakawa/poincare-embedding) - Poincaré Embedding (unofficial)
