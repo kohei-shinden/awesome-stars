@@ -226,6 +226,7 @@
 
 ## cli 
 
+- [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoder command line tools
