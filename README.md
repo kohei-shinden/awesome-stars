@@ -45,6 +45,8 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [kohei-shinden/cintro](https://github.com/kohei-shinden/cintro) - C introduction for a software engineering course
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [tarotez/cintro](https://github.com/tarotez/cintro) - C introduction for a software engineering course
@@ -150,6 +152,9 @@
 
 ## Jupyter Notebook 
 
+- [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
+- [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces) - Sequence Modeling with Structured State Spaces
 - [ntcirtransfer/transfer1](https://github.com/ntcirtransfer/transfer1) - Repository for NTCIR-17 Transfer Task
@@ -254,6 +259,7 @@
 
 ## Others 
 
+- [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
@@ -296,6 +302,12 @@
 
 ## Python 
 
+- [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [THUIR/T2Ranking](https://github.com/THUIR/T2Ranking) - T2Ranking: A large-scale Chinese benchmark for passage ranking.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
