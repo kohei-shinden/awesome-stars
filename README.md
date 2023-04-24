@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
@@ -585,7 +586,7 @@
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [hottolink/hottoSNS-bert](https://github.com/hottolink/hottoSNS-bert) - hottoSNS-BERT: 大規模SNSコーパスによる文分散表現モデル
 - [takuseno/d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library
-- [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - 😆 string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
+- [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
 - [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [benedekrozemberczki/GraphWaveMachine](https://github.com/benedekrozemberczki/GraphWaveMachine) - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)".
