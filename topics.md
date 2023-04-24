@@ -762,6 +762,7 @@
 
 ## others 
 
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
@@ -1072,7 +1073,7 @@
 - [souring001/illumi-packet](https://github.com/souring001/illumi-packet) - Illuminating Packets on an Ethernet Cable using LED Strip.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [hottolink/hottoSNS-bert](https://github.com/hottolink/hottoSNS-bert) - hottoSNS-BERT: 大規模SNSコーパスによる文分散表現モデル
-- [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - 😆 string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
+- [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [DigitalNatureGroup/Remote_Voice_Recognition](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition) - リモートミーティングでの音声認識の活用事例
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
