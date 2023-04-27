@@ -73,7 +73,6 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [kohei-shinden/cppintro](https://github.com/kohei-shinden/cppintro) - C++ introduction for a software engineering course
 
 ## Dart 
@@ -578,6 +577,7 @@
 - [yagays/embedrank](https://github.com/yagays/embedrank) - Python Implementation of EmbedRank
 - [takuseno/d4rl-atari](https://github.com/takuseno/d4rl-atari) - Datasets for data-driven deep reinforcement learning with Atari (wrapper for datasets released by Google)
 - [takuseno/d4rl-pybullet](https://github.com/takuseno/d4rl-pybullet) - Datasets for data-driven deep reinforcement learning with PyBullet environments
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [mpkato/interleaving](https://github.com/mpkato/interleaving) - A python library for conducting interleaving, which compares two or multiple rankers based on observed user clicks by interleaving their results.
 - [dorianbrown/rank_bm25](https://github.com/dorianbrown/rank_bm25) - A Collection of BM25 Algorithms in Python
