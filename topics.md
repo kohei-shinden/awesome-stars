@@ -791,7 +791,7 @@
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [yaoxingcheng/TLM](https://github.com/yaoxingcheng/TLM) - ICML'2022: NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub.
 - [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
 - [oshizo/JapaneseEmbeddingTrain](https://github.com/oshizo/JapaneseEmbeddingTrain) - 
 - [oshizo/gpt_index_japanese_trial](https://github.com/oshizo/gpt_index_japanese_trial) - 
