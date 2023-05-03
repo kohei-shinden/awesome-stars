@@ -157,7 +157,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces) - Sequence Modeling with Structured State Spaces
 - [ntcirtransfer/transfer1](https://github.com/ntcirtransfer/transfer1) - Repository for NTCIR-17 Transfer Task
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub.
 - [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
 - [oshizo/JapaneseEmbeddingTrain](https://github.com/oshizo/JapaneseEmbeddingTrain) - 
 - [oshizo/gpt_index_japanese_trial](https://github.com/oshizo/gpt_index_japanese_trial) - 
@@ -311,6 +311,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [earth-genome/ChatGeoPT](https://github.com/earth-genome/ChatGeoPT) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [Anaig/OpenAI-and-Cognitive-Search](https://github.com/Anaig/OpenAI-and-Cognitive-Search) - Azure OpenAI integration as a custom skillset in Azure Cognitive Search
@@ -648,7 +649,6 @@
 
 ## Shell 
 
-- [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [MorinoseiMorizo/jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [krishnanlab/PecanPy_benchmarks](https://github.com/krishnanlab/PecanPy_benchmarks) - 
