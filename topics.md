@@ -765,6 +765,8 @@
 
 ## others 
 
+- [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
