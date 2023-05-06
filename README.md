@@ -30,7 +30,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -244,6 +243,7 @@
 
 ## Makefile 
 
+- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
@@ -258,6 +258,7 @@
 
 ## Others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -301,6 +302,7 @@
 
 ## Python 
 
+- [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -656,10 +658,6 @@
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [p1ass/mdtopdf](https://github.com/p1ass/mdtopdf) - 🐳 Pandoc docker image for converting markdown to PDF using TeX typesetting
-
-## Smarty 
-
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
 
 ## TeX 
 
