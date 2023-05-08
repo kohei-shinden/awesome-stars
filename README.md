@@ -82,7 +82,7 @@
 
 ## Go 
 
-- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Golangʕ◔ϖ◔ʔ (Just a toy) 😊
+- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Goʕ◔ϖ◔ʔ (Just a toy) 😊
 - [po3rin/eskeeper](https://github.com/po3rin/eskeeper) - eskeeper synchronizes index and alias with configuration files while ensuring idempotency.
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [isucon/isucon11-qualify](https://github.com/isucon/isucon11-qualify) - ISUCON11 予選 (ISUCONDITION)
@@ -302,6 +302,8 @@
 
 ## Python 
 
+- [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
+- [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
@@ -619,6 +621,7 @@
 
 ## Rust 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [jjfiv/fastrank](https://github.com/jjfiv/fastrank) - My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".
 - [daac-tools/daachorse](https://github.com/daac-tools/daachorse) - 🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
