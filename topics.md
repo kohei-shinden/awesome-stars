@@ -461,7 +461,7 @@
 ## go 
 
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Versatile Data Pipeline (VDP) is an open-source tool to seamlessly integrate AI for unstructured data into the modern data stack
-- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Golangʕ◔ϖ◔ʔ (Just a toy) 😊
+- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Goʕ◔ϖ◔ʔ (Just a toy) 😊
 - [po3rin/eskeeper](https://github.com/po3rin/eskeeper) - eskeeper synchronizes index and alias with configuration files while ensuring idempotency.
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [mathetake/intergo](https://github.com/mathetake/intergo) - A package for interleaving / multileaving ranking generation in go
@@ -472,7 +472,7 @@
 
 ## golang 
 
-- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Golangʕ◔ϖ◔ʔ (Just a toy) 😊
+- [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Goʕ◔ϖ◔ʔ (Just a toy) 😊
 - [po3rin/eskeeper](https://github.com/po3rin/eskeeper) - eskeeper synchronizes index and alias with configuration files while ensuring idempotency.
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
@@ -590,6 +590,7 @@
 
 ## machine-learning 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
@@ -689,6 +690,7 @@
 
 ## neural-network 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
@@ -765,6 +767,8 @@
 
 ## others 
 
+- [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
+- [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
