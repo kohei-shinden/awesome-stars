@@ -913,7 +913,7 @@
 - [Albert-Ma/PROP](https://github.com/Albert-Ma/PROP) - WSDM'2021, PROP and SIGIR'2021,B-PROP
 - [caojiangxia/BiGI](https://github.com/caojiangxia/BiGI) - [WSDM 2021]Bipartite Graph Embedding via Mutual Information Maximization
 - [GemsLab/StrucEmbedding-GraphLibrary](https://github.com/GemsLab/StrucEmbedding-GraphLibrary) - The SEMB library is an easy-to-use tool for getting and evaluating structural node embeddings in graphs.
-- [NeuCLIR/neuclir.github.io](https://github.com/NeuCLIR/neuclir.github.io) - Website for the NeuCLIR track at TREC 2022.
+- [NeuCLIR/neuclir.github.io](https://github.com/NeuCLIR/neuclir.github.io) - Website for the NeuCLIR track at NIST TREC.
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [AkariAsai/CORA](https://github.com/AkariAsai/CORA) - This is the official implementation of NeurIPS 2021 "One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval".
 - [ferencberes/online-node2vec](https://github.com/ferencberes/online-node2vec) - Node Embeddings in Dynamic Graphs
