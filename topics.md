@@ -134,6 +134,7 @@
 
 ## analytics 
 
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - An in-process property graph database management system built for query speed and scalability.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 
 ## android 
@@ -814,7 +815,7 @@
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [INK-USC/RE-Net](https://github.com/INK-USC/RE-Net) - Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)
-- [hungthanhpham94/GRU4REC-pytorch](https://github.com/hungthanhpham94/GRU4REC-pytorch) - An other implementation of GRU4REC using PyTorch
+- [hungpthanh/GRU4REC-pytorch](https://github.com/hungpthanh/GRU4REC-pytorch) - An other implementation of GRU4REC using PyTorch
 - [recsyslab/recsys-text](https://github.com/recsyslab/recsys-text) - 
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [castorini/mr.tydi](https://github.com/castorini/mr.tydi) - Mr. TyDi is a multi-lingual benchmark dataset built on TyDi, covering eleven typologically diverse languages.
