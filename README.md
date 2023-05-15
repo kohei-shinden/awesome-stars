@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [Dart](#dart)
@@ -37,10 +36,6 @@
 ## Assembly 
 
 - [HazyResearch/H3](https://github.com/HazyResearch/H3) - Language Modeling with the H3 State Space Model
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## C 
 
@@ -681,6 +676,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Hirai0827/Dynamis](https://github.com/Hirai0827/Dynamis) - 
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Vue 
 
