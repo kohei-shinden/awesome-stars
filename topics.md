@@ -987,7 +987,7 @@
 - [liyinxiao/UnifiedEmbeddingModel](https://github.com/liyinxiao/UnifiedEmbeddingModel) - Implementation of unified embedding model from Embedding-based Retrieval in Facebook Search.
 - [thomas0809/GraphIE](https://github.com/thomas0809/GraphIE) - 
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
+- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [KnowledgeGraphJapan/KGRC-RDF](https://github.com/KnowledgeGraphJapan/KGRC-RDF) - RDF data for Knowledge Graph Reasoning Challenge.
 - [AdeDZY/DeepCT](https://github.com/AdeDZY/DeepCT) - DeepCT and HDCT uses BERT to generate novel, context-aware bag-of-words term weights for documents and queries.
