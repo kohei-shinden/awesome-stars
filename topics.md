@@ -81,7 +81,6 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [others](#others)
-- [postgresql](#postgresql)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -1103,10 +1102,6 @@
 - [tarotez/pyml](https://github.com/tarotez/pyml) - Machine learning course using Python
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us) - 
-
-## postgresql 
-
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 
 ## pwa 
 
