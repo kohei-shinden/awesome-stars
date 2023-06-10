@@ -297,6 +297,7 @@
 
 ## Python 
 
+- [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - ECIR 2023: Unified Learned Sparse Retrieval Framework
 - [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
 - [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
