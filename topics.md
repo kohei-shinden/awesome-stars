@@ -767,6 +767,8 @@
 
 ## others 
 
+- [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - ECIR 2023: Unified Learned Sparse Retrieval Framework
 - [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
 - [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
