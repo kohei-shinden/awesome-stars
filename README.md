@@ -439,7 +439,7 @@
 - [cl-tohoku/AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
 - [hical/HiCAL](https://github.com/hical/HiCAL) - HiCAL is a system for efficient high-recall retrieval with an adaptable assessing interface.
 - [PengjieRen/CaSE_WISE](https://github.com/PengjieRen/CaSE_WISE) - This repo contains the code and data used in the paper "Wizard of Search Engine: Access to Information Through Conversations with Search Engines"
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
 - [baharefatemi/SimplE](https://github.com/baharefatemi/SimplE) - Implementation of SimplE Embedding for Link Prediction in Knowledge Graphs in PyTorch
 - [Mehran-k/SimplE](https://github.com/Mehran-k/SimplE) - SimplE Embedding for Link Prediction in Knowledge Graphs
