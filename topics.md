@@ -768,6 +768,7 @@
 
 ## others 
 
+- [oreilly-japan/building-search-app-w-ml](https://github.com/oreilly-japan/building-search-app-w-ml) - 『機械学習による検索ランキング改善ガイド』のサンプルコードのリポジトリ
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - ECIR 2023: Unified Learned Sparse Retrieval Framework
