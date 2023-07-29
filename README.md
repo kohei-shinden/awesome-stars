@@ -146,6 +146,7 @@
 
 ## Jupyter Notebook 
 
+- [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -419,7 +420,7 @@
 - [JunMa11/SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases and applications.
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
@@ -491,7 +492,7 @@
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
 - [ibm-research-tokyo/diffsnn](https://github.com/ibm-research-tokyo/diffsnn) - An implementation of a differentiable point process and a differentiable spiking neural network.
