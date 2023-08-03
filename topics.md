@@ -115,6 +115,7 @@
 
 ## ai 
 
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
@@ -213,6 +214,7 @@
 
 ## chatgpt 
 
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -783,7 +785,6 @@
 - [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
