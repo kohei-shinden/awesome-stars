@@ -240,7 +240,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
-- [AtomScott/SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [arthurdouillard/deepcourse](https://github.com/arthurdouillard/deepcourse) - Learn the Deep Learning for Computer Vision in three steps: theory from base to SotA, code in PyTorch, and space-repetition with Anki
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -288,7 +288,7 @@
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
-- [AtomScott/SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -1130,7 +1130,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [elastic/eland](https://github.com/elastic/eland) - Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [po3rin/kuro2sudachi](https://github.com/po3rin/kuro2sudachi) - kuro2sudachi lets you to convert kuromoji user dict to sudachi user dict.
-- [AtomScott/SoccerTrack](https://github.com/AtomScott/SoccerTrack) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [hand10ryo/PyTorchCML](https://github.com/hand10ryo/PyTorchCML) - PyTorchCML is a library of PyTorch implementations of matrix factorization (MF) and collaborative metric learning (CML), algorithms used in recommendation systems and data mining.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
