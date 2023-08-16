@@ -297,12 +297,13 @@
 
 ## Python 
 
+- [YadaYuki/news-recommendation-llm](https://github.com/YadaYuki/news-recommendation-llm) - Pre-trained Large Language Model Based News Recommendation using Python / PyTorch 🌎
 - [hakuhodo-technologies/scope-rl](https://github.com/hakuhodo-technologies/scope-rl) - SCOPE-RL: A python library for offline reinforcement learning, off-policy evaluation, and selection
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 - [oreilly-japan/building-search-app-w-ml](https://github.com/oreilly-japan/building-search-app-w-ml) - 『機械学習による検索ランキング改善ガイド』のサンプルコードのリポジトリ
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
-- [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - ECIR 2023: Unified Learned Sparse Retrieval Framework
+- [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - Unified Learned Sparse Retrieval Framework
 - [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
 - [MichSchli/RelationPrediction](https://github.com/MichSchli/RelationPrediction) - Implementation of R-GCNs for Relational Link Prediction
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
@@ -396,7 +397,7 @@
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank) - LibRerank is a toolkit for re-ranking algorithms. There are a number of re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
 - [rish-16/grafog](https://github.com/rish-16/grafog) - Graph Data Augmentation Library for PyTorch Geometric
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Questi
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
 - [naver/splade](https://github.com/naver/splade) - SPLADE: sparse neural search (SIGIR21, SIGIR22)
 - [easezyc/WSDM2022-PTUPCDR](https://github.com/easezyc/WSDM2022-PTUPCDR) - This is the official implementation of our paper Personalized Transfer of User Preferences for Cross-domain Recommendation (PTUPCDR), which has been accepted by WSDM2022.
