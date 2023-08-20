@@ -297,7 +297,7 @@
 
 ## Python 
 
-- [YadaYuki/news-recommendation-llm](https://github.com/YadaYuki/news-recommendation-llm) - Pre-trained Large Language Model Based News Recommendation using Python / PyTorch 🌎
+- [YadaYuki/news-recommendation-llm](https://github.com/YadaYuki/news-recommendation-llm) - Pre-trained Large Language Model (BERT) Based News Recommendation using Python / PyTorch 🌎
 - [hakuhodo-technologies/scope-rl](https://github.com/hakuhodo-technologies/scope-rl) - SCOPE-RL: A python library for offline reinforcement learning, off-policy evaluation, and selection
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 - [oreilly-japan/building-search-app-w-ml](https://github.com/oreilly-japan/building-search-app-w-ml) - 『機械学習による検索ランキング改善ガイド』のサンプルコードのリポジトリ
