@@ -386,7 +386,7 @@
 - [AdeDZY/K-NRM](https://github.com/AdeDZY/K-NRM) - K-NRM: End-to-End Neural Ad-hoc Ranking with Kernel Pooling
 - [namisan/mt-dnn](https://github.com/namisan/mt-dnn) - Multi-Task Deep Neural Networks for Natural Language Understanding
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [deepmind/jraph](https://github.com/deepmind/jraph) - A Graph Neural Network Library in Jax
+- [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [google-research/electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -655,7 +655,7 @@
 - [HHousen/TransformerSum](https://github.com/HHousen/TransformerSum) - Models to perform neural summarization (extractive and abstractive) using machine learning transformers and a tool to convert abstractive summarization datasets to the extractive task.
 - [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [deepmind/jraph](https://github.com/deepmind/jraph) - A Graph Neural Network Library in Jax
+- [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
