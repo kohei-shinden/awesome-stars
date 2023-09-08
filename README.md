@@ -573,7 +573,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [yinwenpeng/BenchmarkingZeroShot](https://github.com/yinwenpeng/BenchmarkingZeroShot) - 
 - [spotify-research/cosernn](https://github.com/spotify-research/cosernn) - Code for the paper "Contextual and Sequential User Embeddings for Large-Scale Music Recommendation".
-- [deepmind/jraph](https://github.com/deepmind/jraph) - A Graph Neural Network Library in Jax
+- [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [google-research/electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [hottolink/hottoSNS-w2v](https://github.com/hottolink/hottoSNS-w2v) - hottoSNS-w2v: 日本語大規模SNS+Webコーパスによる単語分散表現モデル
