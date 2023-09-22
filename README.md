@@ -424,7 +424,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
-- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
+- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [jtibshirani/text-embeddings](https://github.com/jtibshirani/text-embeddings) - 
 - [GemsLab/REGAL](https://github.com/GemsLab/REGAL) - Representation learning-based graph alignment based on implicit matrix factorization and structural embeddings
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
@@ -438,7 +438,7 @@
 - [caojiangxia/BiGI](https://github.com/caojiangxia/BiGI) - [WSDM 2021]Bipartite Graph Embedding via Mutual Information Maximization
 - [GemsLab/StrucEmbedding-GraphLibrary](https://github.com/GemsLab/StrucEmbedding-GraphLibrary) - The SEMB library is an easy-to-use tool for getting and evaluating structural node embeddings in graphs.
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [AkariAsai/CORA](https://github.com/AkariAsai/CORA) - This is the official implementation of NeurIPS 2021 "One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval".
 - [facebookresearch/DPR](https://github.com/facebookresearch/DPR) - Dense Passage Retriever - is a set of tools and models for open domain Q&A task.
 - [cl-tohoku/AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
