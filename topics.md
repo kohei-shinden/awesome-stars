@@ -75,7 +75,6 @@
 - [mongodb](#mongodb)
 - [mysql](#mysql)
 - [neural-network](#neural-network)
-- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -240,7 +239,6 @@
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 - [arthurdouillard/deepcourse](https://github.com/arthurdouillard/deepcourse) - Learn the Deep Learning for Computer Vision in three steps: theory from base to SotA, code in PyTorch, and space-repetition with Anki
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
@@ -467,7 +465,6 @@
 
 ## go 
 
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [YadaYuki/omochi](https://github.com/YadaYuki/omochi) - Full text search engine from scratch by Goʕ◔ϖ◔ʔ (Just a toy) 😊
 - [po3rin/eskeeper](https://github.com/po3rin/eskeeper) - eskeeper synchronizes index and alias with configuration files while ensuring idempotency.
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
@@ -508,6 +505,7 @@
 
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
+- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -718,10 +716,6 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
-
-## nextjs 
-
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 
 ## nlp 
 
