@@ -127,7 +127,6 @@
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [joisino/clear](https://github.com/joisino/clear) - A fully user-side image search engine. Accepted to CIKM 2022 demo track.
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
-- [kn1cht/doctor-funding-calendar](https://github.com/kn1cht/doctor-funding-calendar) - Calendar of doctoral students funding programs
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [decomoji/decomoji](https://github.com/decomoji/decomoji) - Custom icon collection for slack reaction
 - [kenkawakenkenke/sleeping_population](https://github.com/kenkawakenkenke/sleeping_population) - Script to estimate the % of the population of the world sleeping at any point in time
@@ -647,6 +646,7 @@
 ## SCSS 
 
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
+- [kn1cht/doctor-funding-calendar](https://github.com/kn1cht/doctor-funding-calendar) - Calendar of doctoral students funding programs
 - [NeuCLIR/neuclir.github.io](https://github.com/NeuCLIR/neuclir.github.io) - Website for the NeuCLIR track at NIST TREC.
 
 ## Scala 
