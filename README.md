@@ -466,7 +466,7 @@
 - [m3dev/gokart](https://github.com/m3dev/gokart) - Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [MLDroid/subgraph2vec_gensim](https://github.com/MLDroid/subgraph2vec_gensim) - Contains the code (and working vm setup) for our KDD MLG 2016 paper titled: "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs"
+- [annamalai-nr/subgraph2vec_gensim](https://github.com/annamalai-nr/subgraph2vec_gensim) - Contains the code (and working vm setup) for our KDD MLG 2016 paper titled: "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs"
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [sansan-inc/OneNER](https://github.com/sansan-inc/OneNER) - 
 - [st-tech/zr-obp](https://github.com/st-tech/zr-obp) - Open Bandit Pipeline: a python library for bandit algorithms and off-policy evaluation
