@@ -351,7 +351,7 @@
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
-- [MLDroid/subgraph2vec_gensim](https://github.com/MLDroid/subgraph2vec_gensim) - Contains the code (and working vm setup) for our KDD MLG 2016 paper titled: "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs"
+- [annamalai-nr/subgraph2vec_gensim](https://github.com/annamalai-nr/subgraph2vec_gensim) - Contains the code (and working vm setup) for our KDD MLG 2016 paper titled: "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs"
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [arthurdouillard/deepcourse](https://github.com/arthurdouillard/deepcourse) - Learn the Deep Learning for Computer Vision in three steps: theory from base to SotA, code in PyTorch, and space-repetition with Anki
 - [nikhilbarhate99/PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch) - Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch
