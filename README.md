@@ -144,7 +144,7 @@
 
 ## Jupyter Notebook 
 
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙summary notes,🔎references, and ♾a cheatsheet..
+- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙Summary notes,🔎References, and 🎋Cheatsheet..
 - [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
