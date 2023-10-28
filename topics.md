@@ -23,6 +23,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -243,6 +244,11 @@
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoder command line tools
+
+## computer-science 
+
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## computer-vision 
 
@@ -1108,7 +1114,6 @@
 - [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [DigitalNatureGroup/Remote_Voice_Recognition](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition) - リモートミーティングでの音声認識の活用事例
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [HOXOMInc/feature-engineering-book](https://github.com/HOXOMInc/feature-engineering-book) - 『機械学習のための特徴量エンジニアリング』のサンプルコード集
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
 - [maruyama097/coq-tutorial](https://github.com/maruyama097/coq-tutorial) - coq-tutorial
