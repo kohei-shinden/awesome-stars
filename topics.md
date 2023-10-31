@@ -229,7 +229,7 @@
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
@@ -349,7 +349,7 @@
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
 - [graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) - Repository for benchmarking graph neural networks
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [OnYuKang/Recommendation-systems-paperlist](https://github.com/OnYuKang/Recommendation-systems-paperlist) - Papers about recommendation systems that I am interested in
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
@@ -522,7 +522,7 @@
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
@@ -625,7 +625,7 @@
 - [sisinflab/elliot](https://github.com/sisinflab/elliot) - Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [elastic/eland](https://github.com/elastic/eland) - Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [allenai/aspire](https://github.com/allenai/aspire) - Repo for Aspire - A scientific document similarity model based on matching fine-grained aspects of scientific papers.
 - [jjfiv/fastrank](https://github.com/jjfiv/fastrank) - My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".
