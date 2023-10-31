@@ -147,6 +147,7 @@
 
 - [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙Summary notes,🔎References, and 🎋Cheatsheet..
 - [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -253,7 +254,6 @@
 
 ## Others 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
@@ -359,7 +359,7 @@
 - [amazon-science/esci-data](https://github.com/amazon-science/esci-data) - Shopping Queries Dataset: A Large-Scale ESCI Benchmark for Improving Product Search
 - [pakio/EsBM25SemanticHybridComparison](https://github.com/pakio/EsBM25SemanticHybridComparison) - (Demo) Elasticsearch with ML node and ingest pipeline for hybrid search (Lexical + Semantic)
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [Zhang-xiaokun/CoHHN](https://github.com/Zhang-xiaokun/CoHHN) - Session-based Recommendation, CoHHN, price preferences, interest preferences, Heterogeneous Hypergraph, Co-guided Learning, SIGIR2022
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [RUCAIBox/DPGNN](https://github.com/RUCAIBox/DPGNN) - Codes of Modeling Two-Way Selection Preference for Person-Job Fit
