@@ -418,7 +418,7 @@
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [hltcoe/HC4](https://github.com/hltcoe/HC4) - HLTCOE CLIR Common-Crawl Collection
 - [hltcoe/patapsco](https://github.com/hltcoe/patapsco) - Cross language information retrieval pipeline
-- [JunMa11/SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
+- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
