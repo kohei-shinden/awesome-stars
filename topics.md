@@ -913,7 +913,7 @@
 - [hltcoe/HC4](https://github.com/hltcoe/HC4) - HLTCOE CLIR Common-Crawl Collection
 - [hltcoe/patapsco](https://github.com/hltcoe/patapsco) - Cross language information retrieval pipeline
 - [MorinoseiMorizo/jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
-- [JunMa11/SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
+- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation
 - [yuyay/DEIM2022_XAI_tutorial](https://github.com/yuyay/DEIM2022_XAI_tutorial) - 
 - [DEIM-Management-System/Manual](https://github.com/DEIM-Management-System/Manual) - 
 - [tomomano/learn-aws-by-coding](https://github.com/tomomano/learn-aws-by-coding) - コードで学ぶAWS入門
