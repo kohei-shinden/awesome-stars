@@ -85,6 +85,7 @@
 - [isucon/isucon11-prior](https://github.com/isucon/isucon11-prior) - 
 - [mathetake/intergo](https://github.com/mathetake/intergo) - A package for interleaving / multileaving ranking generation in go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) - LINE Messaging API SDK for Go
 - [shogo82148/go-mecab](https://github.com/shogo82148/go-mecab) - MeCab binding for Golang
@@ -661,7 +662,6 @@
 - [MorinoseiMorizo/jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [krishnanlab/PecanPy_benchmarks](https://github.com/krishnanlab/PecanPy_benchmarks) - 
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [p1ass/mdtopdf](https://github.com/p1ass/mdtopdf) - 🐳 Pandoc docker image for converting markdown to PDF using TeX typesetting
