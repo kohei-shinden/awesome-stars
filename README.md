@@ -155,7 +155,6 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces) - Sequence Modeling with Structured State Spaces
 - [ntcirtransfer/transfer1](https://github.com/ntcirtransfer/transfer1) - Repository for NTCIR-17 Transfer Task
-- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
 - [oshizo/JapaneseEmbeddingTrain](https://github.com/oshizo/JapaneseEmbeddingTrain) - 
 - [oshizo/gpt_index_japanese_trial](https://github.com/oshizo/gpt_index_japanese_trial) - 
@@ -672,6 +671,7 @@
 
 ## TeX 
 
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 
 ## TypeScript 
