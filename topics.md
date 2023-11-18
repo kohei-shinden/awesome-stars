@@ -336,6 +336,7 @@
 
 ## deep-learning 
 
+- [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
@@ -614,6 +615,7 @@
 
 ## machine-learning 
 
+- [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
@@ -792,6 +794,7 @@
 
 ## others 
 
+- [arezooSarvi/outlierbias](https://github.com/arezooSarvi/outlierbias) - This repository contains the code used for the experiments in "On the Impact of Outlier Bias on User Clicks", which will be published at SIGIR 2023.
 - [YadaYuki/news-recommendation-llm](https://github.com/YadaYuki/news-recommendation-llm) - Pre-trained Large Language Model (BERT) Based News Recommendation using Python / PyTorch 🌎
 - [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
 - [hakuhodo-technologies/scope-rl](https://github.com/hakuhodo-technologies/scope-rl) - SCOPE-RL: A python library for offline reinforcement learning, off-policy evaluation, and selection
@@ -1139,6 +1142,7 @@
 
 ## python 
 
+- [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [namuan/dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
@@ -1203,6 +1207,7 @@
 
 ## pytorch 
 
+- [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
