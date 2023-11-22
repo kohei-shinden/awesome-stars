@@ -114,7 +114,7 @@
 ## Java 
 
 - [irecsys/CARSKit](https://github.com/irecsys/CARSKit) - Java-Based Context-aware Recommendation Library
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
 - [ppasupat/web-entity-extractor-ACL2014](https://github.com/ppasupat/web-entity-extractor-ACL2014) - 
