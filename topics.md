@@ -1210,7 +1210,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
-- [HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces) - Sequence Modeling with Structured State Spaces
+- [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
 - [rixwew/pytorch-fm](https://github.com/rixwew/pytorch-fm) - Factorization Machine models in PyTorch
