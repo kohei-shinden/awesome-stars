@@ -149,6 +149,7 @@
 
 - [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙Summary notes,🔎References, and 🎋Cheatsheet..
 - [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
+- [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
@@ -308,7 +309,6 @@
 - [hakuhodo-technologies/scope-rl](https://github.com/hakuhodo-technologies/scope-rl) - SCOPE-RL: A python library for offline reinforcement learning, off-policy evaluation, and selection
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 - [oreilly-japan/building-search-app-w-ml](https://github.com/oreilly-japan/building-search-app-w-ml) - 『機械学習による検索ランキング改善ガイド』のサンプルコードのリポジトリ
-- [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [thongnt99/learned-sparse-retrieval](https://github.com/thongnt99/learned-sparse-retrieval) - Unified Learned Sparse Retrieval Framework
 - [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
