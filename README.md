@@ -168,7 +168,7 @@
 - [Netflix-Skunkworks/rl_for_budget_constrained_recs](https://github.com/Netflix-Skunkworks/rl_for_budget_constrained_recs) - 
 - [malteos/aspect-document-embeddings](https://github.com/malteos/aspect-document-embeddings) - Code, dataset & models for the paper Specialized Document Embeddings for Aspect-based Similarity of Research Papers (#JCDL2022)
 - [usydnlp/Glocal_K](https://github.com/usydnlp/Glocal_K) - This repository contains code for paper GLocal-K: Global and Local Kernels for Recommender Systems, published in CIKM 2021
-- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A python package for turning sports video into csv files
 - [csienslab/RAD-domain-analysis](https://github.com/csienslab/RAD-domain-analysis) - Investigating Advertisers’ Domain-changing Behaviors and Their Impacts on Ad-blocker Filter Lists
 - [suhara/cis6930-fall2021](https://github.com/suhara/cis6930-fall2021) - Course materials for Fall 2021 "CIS6930 Topics in Computing for Data Science" at New College of Florida
 - [logics-of-blue/book-decision-analysis-and-forecast](https://github.com/logics-of-blue/book-decision-analysis-and-forecast) - 書籍「意思決定分析と予測の活用 基礎理論からPython実装まで」のサンプルコードとデータ
@@ -419,7 +419,7 @@
 - [S-aiueo32/lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) - A simple and useful implementation of LPIPS.
 - [castorini/bertserini](https://github.com/castorini/bertserini) - BERTserini
 - [microsoft/MSMARCO-Passage-Ranking-Submissions](https://github.com/microsoft/MSMARCO-Passage-Ranking-Submissions) - Submission archive for the MS MARCO passage ranking leaderboard
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [hltcoe/HC4](https://github.com/hltcoe/HC4) - HLTCOE CLIR Common-Crawl Collection
