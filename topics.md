@@ -120,7 +120,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
@@ -157,7 +157,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
@@ -253,7 +253,7 @@
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A python package for turning sports video into csv files
 - [arthurdouillard/deepcourse](https://github.com/arthurdouillard/deepcourse) - Learn the Deep Learning for Computer Vision in three steps: theory from base to SotA, code in PyTorch, and space-repetition with Anki
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -302,9 +302,9 @@
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
-- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A python package for turning sports video into csv files
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
@@ -361,7 +361,7 @@
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [S-aiueo32/lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) - A simple and useful implementation of LPIPS.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -637,7 +637,7 @@
 - [mquad/sars_tutorial](https://github.com/mquad/sars_tutorial) - Repository for the tutorial on Sequence-Aware Recommender Systems held at TheWebConf 2019 and ACM RecSys 2018
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
@@ -1148,13 +1148,13 @@
 - [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 - [elastic/eland](https://github.com/elastic/eland) - Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [po3rin/kuro2sudachi](https://github.com/po3rin/kuro2sudachi) - kuro2sudachi lets you to convert kuromoji user dict to sudachi user dict.
-- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
+- [AtomScott/SportsLabKit](https://github.com/AtomScott/SportsLabKit) - A python package for turning sports video into csv files
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
 - [hand10ryo/PyTorchCML](https://github.com/hand10ryo/PyTorchCML) - PyTorchCML is a library of PyTorch implementations of matrix factorization (MF) and collaborative metric learning (CML), algorithms used in recommendation systems and data mining.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [chokkan/mlnote](https://github.com/chokkan/mlnote) - 機械学習帳
@@ -1225,7 +1225,7 @@
 - [texttron/tevatron](https://github.com/texttron/tevatron) - Tevatron - A flexible toolkit for neural retrieval research and development.
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [chokkan/mlnote](https://github.com/chokkan/mlnote) - 機械学習帳
