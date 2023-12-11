@@ -83,6 +83,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [others](#others)
+- [privacy](#privacy)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -994,7 +995,6 @@
 - [takitsuba/midoribon](https://github.com/takitsuba/midoribon) - 
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [tmu-nlp/JapaneseWordSimilarityDataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset) - Japanese Word Similarity Dataset
 - [jkatsuta/18_4q_doc2vec](https://github.com/jkatsuta/18_4q_doc2vec) - 18-4Q blog's note
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
@@ -1132,6 +1132,11 @@
 - [tarotez/pyml](https://github.com/tarotez/pyml) - Machine learning course using Python
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us) - 
+
+## privacy 
+
+- [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 
 ## pwa 
 
