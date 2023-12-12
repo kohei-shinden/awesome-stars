@@ -632,7 +632,7 @@
 ## Rust 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [jjfiv/fastrank](https://github.com/jjfiv/fastrank) - My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".
 - [daac-tools/daachorse](https://github.com/daac-tools/daachorse) - 🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
 - [kampersanda/tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust library providing fast language model queries in compressed space
