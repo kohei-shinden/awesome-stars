@@ -126,6 +126,7 @@
 ## JavaScript 
 
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [joisino/clear](https://github.com/joisino/clear) - A fully user-side image search engine. Accepted to CIKM 2022 demo track.
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
@@ -178,7 +179,6 @@
 - [recsyslab/recsys-python](https://github.com/recsyslab/recsys-python) - 
 - [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT) - Financial Sentiment Analysis with BERT
 - [chakki-works/chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakki's Aspect-Based Sentiment Analysis dataset
-- [mlco2/codecarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [yuyay/DEIM2022_XAI_tutorial](https://github.com/yuyay/DEIM2022_XAI_tutorial) - 
 - [tomomano/learn-aws-by-coding](https://github.com/tomomano/learn-aws-by-coding) - コードで学ぶAWS入門
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
@@ -352,7 +352,6 @@
 - [kavehhassani/mvgrl](https://github.com/kavehhassani/mvgrl) - 
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sisinflab/elliot](https://github.com/sisinflab/elliot) - Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
@@ -413,6 +412,7 @@
 - [mquad/sars_tutorial](https://github.com/mquad/sars_tutorial) - Repository for the tutorial on Sequence-Aware Recommender Systems held at TheWebConf 2019 and ACM RecSys 2018
 - [hidasib/GRU4Rec](https://github.com/hidasib/GRU4Rec) - GRU4Rec is the original Theano implementation of the algorithm in "Session-based Recommendations with Recurrent Neural Networks" paper, published at ICLR 2016 and its follow-up "Recurrent Neural Netwo
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
+- [mlco2/codecarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
 - [joisino/private-recsys](https://github.com/joisino/private-recsys) - Code for "Private Recommender Systems: How Can Users Build Their Own Fair Recommender Systems without Log Data?" (SDM 2022)
@@ -519,7 +519,7 @@
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [liuyukid/transformers-ner](https://github.com/liuyukid/transformers-ner) - Pytorch-Named-Entity-Recognition-with-transformers
-- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
+- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
 - [capreolus-ir/capreolus](https://github.com/capreolus-ir/capreolus) - A toolkit for end-to-end neural ad hoc retrieval
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
