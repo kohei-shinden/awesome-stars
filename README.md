@@ -147,7 +147,7 @@
 
 ## Jupyter Notebook 
 
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries. Awesome LLM ?
 - [tira-io/ir-experiment-platform](https://github.com/tira-io/ir-experiment-platform) - 
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
