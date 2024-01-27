@@ -113,6 +113,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [windows](#windows)
 - [xml](#xml)
 
@@ -1044,7 +1045,7 @@
 - [hundredblocks/ml-powered-applications](https://github.com/hundredblocks/ml-powered-applications) - Companion repository for the book Building Machine Learning Powered Applications
 - [oreilly-japan/ml-at-work](https://github.com/oreilly-japan/ml-at-work) - 電子書籍『仕事ではじめる機械学習』のサポートリポジトリです
 - [castorini/pygaggle](https://github.com/castorini/pygaggle) - a gaggle of deep neural architectures for text ranking and question answering, designed for Pyserini
-- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
+- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [ir-anthology/ir-anthology](https://github.com/ir-anthology/ir-anthology) - Software for building the IR Anthology.
 - [IntelLabs/academic-budget-bert](https://github.com/IntelLabs/academic-budget-bert) - Repository containing code for "How to Train BERT with an Academic Budget" paper
@@ -1423,6 +1424,10 @@
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## web-development 
+
+- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 
 ## windows 
 
