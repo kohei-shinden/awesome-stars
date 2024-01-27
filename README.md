@@ -519,7 +519,7 @@
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [liuyukid/transformers-ner](https://github.com/liuyukid/transformers-ner) - Pytorch-Named-Entity-Recognition-with-transformers
-- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
+- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
 - [capreolus-ir/capreolus](https://github.com/capreolus-ir/capreolus) - A toolkit for end-to-end neural ad hoc retrieval
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
