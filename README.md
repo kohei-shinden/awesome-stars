@@ -41,13 +41,13 @@
 ## C 
 
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [kohei-shinden/cintro](https://github.com/kohei-shinden/cintro) - C introduction for a software engineering course
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [tarotez/cintro](https://github.com/tarotez/cintro) - C introduction for a software engineering course
 
 ## C++ 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
@@ -519,7 +519,7 @@
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [liuyukid/transformers-ner](https://github.com/liuyukid/transformers-ner) - Pytorch-Named-Entity-Recognition-with-transformers
-- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
+- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
 - [capreolus-ir/capreolus](https://github.com/capreolus-ir/capreolus) - A toolkit for end-to-end neural ad hoc retrieval
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
