@@ -69,6 +69,7 @@
 - [learning](#learning)
 - [library](#library)
 - [localization](#localization)
+- [low-code](#low-code)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -616,6 +617,10 @@
 ## localization 
 
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
+
+## low-code 
+
+- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 
 ## lua 
 
