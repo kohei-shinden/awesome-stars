@@ -349,7 +349,6 @@
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -742,7 +741,6 @@
 ## neural-network 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
@@ -759,7 +757,6 @@
 
 ## nlp 
 
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
@@ -864,6 +861,7 @@
 - [digital-go-jp/mojxml2geojson](https://github.com/digital-go-jp/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
 - [kavehhassani/mvgrl](https://github.com/kavehhassani/mvgrl) - 
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 - [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of
 - [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
 - [kohei-shinden/awesome-stars](https://github.com/kohei-shinden/awesome-stars) - A curated list of my GitHub stars!
