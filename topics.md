@@ -79,6 +79,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
@@ -738,6 +739,34 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
 - [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
 
+## natural-language-processing 
+
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
+- [allenai/aspire](https://github.com/allenai/aspire) - Repo for Aspire - A scientific document similarity model based on matching fine-grained aspects of scientific papers.
+- [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
+- [allenai/dont-stop-pretraining](https://github.com/allenai/dont-stop-pretraining) - Code associated with the Don't Stop Pretraining ACL 2020 paper
+- [joisino/wordtour](https://github.com/joisino/wordtour) - Code for "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem" (NAACL 2022)
+- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
+- [chakki-works/chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakki's Aspect-Based Sentiment Analysis dataset
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [megagonlabs/t5-japanese](https://github.com/megagonlabs/t5-japanese) - Codes to pre-train Japanese T5 models
+- [plasticityai/magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package.
+- [megagonlabs/jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
+- [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+- [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: An Industry and Research Integrated Platform for Federated Learning in Natural Language Processing, Backed by FedML, Inc. The Previous Research Version is Accepted to NAACL 2022
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
+- [lgalke/vec4ir](https://github.com/lgalke/vec4ir) - Word Embeddings for Information Retrieval
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
+- [Hironsan/natural-language-preprocessings](https://github.com/Hironsan/natural-language-preprocessings) - Some recipes of natural language pre-processing
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
+- [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+- [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes) - repository to research & share the machine learning articles
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
 ## neural-network 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -912,7 +941,6 @@
 - [irecsys/CARSKit](https://github.com/irecsys/CARSKit) - Java-Based Context-aware Recommendation Library
 - [hppRC/template-pytorch-lightning-hydra-mlflow-poetry](https://github.com/hppRC/template-pytorch-lightning-hydra-mlflow-poetry) - An easy to use ML template project using Pytorch-Lightning, Hydra, Mlflow, and Poetry.
 - [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
-- [allenai/dont-stop-pretraining](https://github.com/allenai/dont-stop-pretraining) - Code associated with the Don't Stop Pretraining ACL 2020 paper
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [oreilly-japan/RecommenderSystems](https://github.com/oreilly-japan/RecommenderSystems) - 『推薦システム実践入門』のリポジトリ
 - [wuliwei9278/SSE-PT](https://github.com/wuliwei9278/SSE-PT) - Codes and Datasets for paper RecSys'20 "SSE-PT: Sequential Recommendation Via Personalized Transformer" and NurIPS'19 "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"
@@ -926,7 +954,6 @@
 - [hidasib/GRU4Rec](https://github.com/hidasib/GRU4Rec) - GRU4Rec is the original Theano implementation of the algorithm in "Session-based Recommendations with Recurrent Neural Networks" paper, published at ICLR 2016 and its follow-up "Recurrent Neural Netwo
 - [recsyslab/recsys-python](https://github.com/recsyslab/recsys-python) - 
 - [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT) - Financial Sentiment Analysis with BERT
-- [chakki-works/chABSA-dataset](https://github.com/chakki-works/chABSA-dataset) - chakki's Aspect-Based Sentiment Analysis dataset
 - [mlco2/codecarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [joisino/private-recsys](https://github.com/joisino/private-recsys) - Code for "Private Recommender Systems: How Can Users Build Their Own Fair Recommender Systems without Log Data?" (SDM 2022)
 - [doc-analysis/TableBank](https://github.com/doc-analysis/TableBank) - TableBank: A Benchmark Dataset for Table Detection and Recognition
@@ -1006,7 +1033,6 @@
 - [isucon/isucon11-qualify](https://github.com/isucon/isucon11-qualify) - ISUCON11 予選 (ISUCONDITION)
 - [xptree/LightNE](https://github.com/xptree/LightNE) - 
 - [xiangwang1223/knowledge_graph_attention_network](https://github.com/xiangwang1223/knowledge_graph_attention_network) - KGAT: Knowledge Graph Attention Network for Recommendation, KDD2019
-- [megagonlabs/jrte-corpus](https://github.com/megagonlabs/jrte-corpus) - Japanese Realistic Textual Entailment Corpus (NLP 2020, LREC 2020)
 - [sansan-inc/lighthergm](https://github.com/sansan-inc/lighthergm) - Fit, Simulate, and Diagnose Hierarchical Exponential-Family Models for Networks in A Scalable Way
 - [hideojoho/kb](https://github.com/hideojoho/kb) - Joho Lab Knowledge Base 上保研究室ナレッジベース 1.0
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
