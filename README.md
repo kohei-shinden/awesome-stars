@@ -211,6 +211,7 @@
 - [sonoisa/t5-japanese](https://github.com/sonoisa/t5-japanese) - 日本語T5モデル
 - [terrier-org/ecir2021tutorial](https://github.com/terrier-org/ecir2021tutorial) - 
 - [mpkato/Statistical-Reform-in-IR](https://github.com/mpkato/Statistical-Reform-in-IR) - Statistical Reform in Information Retrieval? (Tetsuya Sakai, SIGIR Forum, 2014)
+- [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [stephenleo/adventures-with-ann](https://github.com/stephenleo/adventures-with-ann) - All the code for a series of Medium articles on Approximate Nearest Neighbors
 - [sbharadwajj/embarrassingly-simple-zero-shot-learning](https://github.com/sbharadwajj/embarrassingly-simple-zero-shot-learning) - This is a started/demo code for Zero-Shot-Learning via implementation of Embarrassingly simple ZSL (ICML 2015)
@@ -537,7 +538,6 @@
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD (NeurIPS 2021)
-- [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [instillai/deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) - A Python framework for performing information retrieval experiments, building on http://terrier.org/
