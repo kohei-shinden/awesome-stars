@@ -536,7 +536,6 @@
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
-- [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) - The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -612,7 +611,7 @@
 ## library 
 
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
-- [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
+- [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A multilingual morphological analysis library.
 
 ## localization 
 
