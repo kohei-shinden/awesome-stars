@@ -1010,7 +1010,7 @@
 - [m3dev/thunderbolt](https://github.com/m3dev/thunderbolt) - gokart file manager
 - [chauff/conversationalIR](https://github.com/chauff/conversationalIR) - Overview of venues, research themes and datasets relevant for conversational search.
 - [DaoD/COCA](https://github.com/DaoD/COCA) - CIKM 2021: Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking
-- [fajieyuan/SIGIR2021_Conure](https://github.com/fajieyuan/SIGIR2021_Conure) - One Person, One Model, One World: Learning Continual User Representation without Forgetting
+- [fajieyuan/SIGIR2021_Conure](https://github.com/fajieyuan/SIGIR2021_Conure) - Pre-training and Lifelong learning for Recommender System
 - [Zziwei/Fairness-in-Cold-Start-Recommendation](https://github.com/Zziwei/Fairness-in-Cold-Start-Recommendation) - Code for our SIGIR 2021 paper :'Fairness among New Items in Cold Start Recommender Systems'
 - [kinit-sk/yaudit-recsys-2021](https://github.com/kinit-sk/yaudit-recsys-2021) - Supplementary material for the paper published at ACM RecSys 2021 and its extended version accepted to ACM TORS journal
 - [usaito/recsys2021-tutorial](https://github.com/usaito/recsys2021-tutorial) - https://sites.google.com/cornell.edu/recsys2021tutorial
