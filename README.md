@@ -468,7 +468,7 @@
 - [kanjirz50/mnist-pipeline-sample](https://github.com/kanjirz50/mnist-pipeline-sample) - 
 - [m3dev/thunderbolt](https://github.com/m3dev/thunderbolt) - gokart file manager
 - [DaoD/COCA](https://github.com/DaoD/COCA) - CIKM 2021: Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking
-- [fajieyuan/SIGIR2021_Conure](https://github.com/fajieyuan/SIGIR2021_Conure) - One Person, One Model, One World: Learning Continual User Representation without Forgetting
+- [fajieyuan/SIGIR2021_Conure](https://github.com/fajieyuan/SIGIR2021_Conure) - Pre-training and Lifelong learning for Recommender System
 - [EthanRosenthal/torchmf](https://github.com/EthanRosenthal/torchmf) - matrix factorization in PyTorch
 - [m3dev/cookiecutter-gokart](https://github.com/m3dev/cookiecutter-gokart) - cookiecutter for gokart
 - [krishnanlab/PecanPy](https://github.com/krishnanlab/PecanPy) - A fast, parallelized, memory efficient, and cache-optimized Python implementation of node2vec
