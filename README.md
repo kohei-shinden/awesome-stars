@@ -19,6 +19,7 @@
 - [LLVM](#llvm)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Mojo](#mojo)
 - [OpenEdge ABL](#openedge-abl)
 - [OpenQASM](#openqasm)
 - [Others](#others)
@@ -250,6 +251,10 @@
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## OpenEdge ABL 
 
 - [sunfanyunn/graph-classification](https://github.com/sunfanyunn/graph-classification) - A collection of graph classification methods
@@ -261,7 +266,6 @@
 
 ## Others 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
