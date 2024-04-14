@@ -106,6 +106,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sql](#sql)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1386,6 +1387,10 @@
 ## sql 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
+## stable-diffusion 
+
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model, and pipeline orchestration platform
 
 ## statistics 
 
