@@ -561,7 +561,7 @@
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [kivy/pyjnius](https://github.com/kivy/pyjnius) - Access Java classes from Python
@@ -570,7 +570,7 @@
 
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 
@@ -819,7 +819,7 @@
 
 ## nodejs 
 
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 
 ## nosql 
 
@@ -1226,7 +1226,7 @@
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [stephenleo/adventures-with-ann](https://github.com/stephenleo/adventures-with-ann) - All the code for a series of Medium articles on Approximate Nearest Neighbors
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
@@ -1341,7 +1341,7 @@
 ## ruby 
 
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 
 ## rust 
 
@@ -1430,7 +1430,7 @@
 ## twitter 
 
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 
 ## typescript 
 
