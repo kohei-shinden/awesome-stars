@@ -135,7 +135,7 @@
 - [decomoji/decomoji](https://github.com/decomoji/decomoji) - Custom icon collection for slack reaction
 - [kenkawakenkenke/sleeping_population](https://github.com/kenkawakenkenke/sleeping_population) - Script to estimate the % of the population of the world sleeping at any point in time
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
-- [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+- [xdevplatform/Twitter-API-v2-sample-code](https://github.com/xdevplatform/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [takuseno/minerva](https://github.com/takuseno/minerva) - An out-of-the-box GUI tool for offline deep reinforcement learning
