@@ -42,6 +42,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
 - [firefox](#firefox)
@@ -450,6 +451,10 @@
 
 - [adenohitu/hisui](https://github.com/adenohitu/hisui) - 競技プログラミングサポートツール  Support tool for Competitive programming (AtCoder GUI)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## embedded 
+
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
 
 ## emoji 
 
