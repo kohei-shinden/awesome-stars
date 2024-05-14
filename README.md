@@ -544,7 +544,7 @@
 - [rinnakk/japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - Code for producing Japanese pretrained models provided by rinna Co., Ltd.
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
-- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD (NeurIPS 2021)
 - [instillai/deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
