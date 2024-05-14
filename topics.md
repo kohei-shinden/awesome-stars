@@ -1102,7 +1102,7 @@
 - [sonoisa/t5-japanese](https://github.com/sonoisa/t5-japanese) - 日本語T5モデル
 - [quickwit-oss/tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy
 - [terrier-org/ecir2021tutorial](https://github.com/terrier-org/ecir2021tutorial) - 
-- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD (NeurIPS 2021)
 - [kenkawakenkenke/sleeping_population](https://github.com/kenkawakenkenke/sleeping_population) - Script to estimate the % of the population of the world sleeping at any point in time
