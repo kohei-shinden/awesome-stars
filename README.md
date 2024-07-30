@@ -597,7 +597,7 @@
 - [hottolink/hottoSNS-w2v](https://github.com/hottolink/hottoSNS-w2v) - hottoSNS-w2v: 日本語大規模SNS+Webコーパスによる単語分散表現モデル
 - [lgalke/vec4ir](https://github.com/lgalke/vec4ir) - Word Embeddings for Information Retrieval
 - [mpkato/pyNTCIREVAL](https://github.com/mpkato/pyNTCIREVAL) - Python version of NTCIREVAL http://research.nii.ac.jp/ntcir/tools/ntcireval-en.html
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [yagays/embedrank](https://github.com/yagays/embedrank) - Python Implementation of EmbedRank
 - [takuseno/d4rl-atari](https://github.com/takuseno/d4rl-atari) - Datasets for data-driven deep reinforcement learning with Atari (wrapper for datasets released by Google)
