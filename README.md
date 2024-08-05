@@ -92,7 +92,7 @@
 - [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) - LINE Messaging API SDK for Go
 - [shogo82148/go-mecab](https://github.com/shogo82148/go-mecab) - MeCab binding for Golang
-- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
+- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings in Go!
 - [takatori/go-tinysearch](https://github.com/takatori/go-tinysearch) - 
 - [ikawaha/kagome](https://github.com/ikawaha/kagome) - Self-contained Japanese Morphological Analyzer written in pure Go
 - [neo4j-examples/golang-bolt-movie-example](https://github.com/neo4j-examples/golang-bolt-movie-example) - Movie example for the golang neo4j bolt driver
