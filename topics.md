@@ -503,7 +503,7 @@
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [mathetake/intergo](https://github.com/mathetake/intergo) - A package for interleaving / multileaving ranking generation in go
 - [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) - LINE Messaging API SDK for Go
-- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
+- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings in Go!
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 
@@ -706,7 +706,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [HHousen/TransformerSum](https://github.com/HHousen/TransformerSum) - Models to perform neural summarization (extractive and abstractive) using machine learning transformers and a tool to convert abstractive summarization datasets to the extractive task.
-- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
+- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings in Go!
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
@@ -827,7 +827,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [namisan/mt-dnn](https://github.com/namisan/mt-dnn) - Multi-Task Deep Neural Networks for Natural Language Understanding
-- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
+- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings in Go!
 - [patil-suraj/onnx_transformers](https://github.com/patil-suraj/onnx_transformers) - Accelerated NLP pipelines for fast inference on CPU. Built with Transformers and ONNX runtime.
 - [google-research/electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [lgalke/vec4ir](https://github.com/lgalke/vec4ir) - Word Embeddings for Information Retrieval
