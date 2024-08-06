@@ -649,7 +649,7 @@
 - [daac-tools/vaporetto](https://github.com/daac-tools/vaporetto) - 🛥 Vaporetto: Very accelerated pointwise prediction based tokenizer
 - [mooreniemi/suntan](https://github.com/mooreniemi/suntan) - A utility to dump Elasticsearch Lucene shards into Tantivy.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A multilingual morphological analysis library.
+- [lindera/lindera](https://github.com/lindera/lindera) - A multilingual morphological analysis library.
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
