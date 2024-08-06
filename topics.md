@@ -617,7 +617,7 @@
 ## library 
 
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
-- [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A multilingual morphological analysis library.
+- [lindera/lindera](https://github.com/lindera/lindera) - A multilingual morphological analysis library.
 
 ## llm 
 
