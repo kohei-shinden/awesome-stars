@@ -490,7 +490,7 @@
 
 ## git 
 
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
 
 ## github 
 
@@ -1400,7 +1400,7 @@
 ## shell 
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
 
 ## sql 
 
