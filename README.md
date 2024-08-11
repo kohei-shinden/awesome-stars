@@ -88,7 +88,7 @@
 - [isucon/isucon11-prior](https://github.com/isucon/isucon11-prior) - 
 - [mathetake/intergo](https://github.com/mathetake/intergo) - A package for interleaving / multileaving ranking generation in go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
 - [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) - LINE Messaging API SDK for Go
 - [shogo82148/go-mecab](https://github.com/shogo82148/go-mecab) - MeCab binding for Golang
