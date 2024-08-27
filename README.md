@@ -297,7 +297,7 @@
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: An Industry and Research Integrated Platform for Federated Learning in Natural Language Processing, Backed by FedML, Inc. The Previous Research Version is Accepted to NAACL 2022
 - [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) - An index of algorithms for offline reinforcement learning (offline-rl)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
