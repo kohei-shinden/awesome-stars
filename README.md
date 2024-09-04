@@ -608,7 +608,7 @@
 - [dorianbrown/rank_bm25](https://github.com/dorianbrown/rank_bm25) - A Collection of BM25 Algorithms in Python
 - [Hironsan/natural-language-preprocessings](https://github.com/Hironsan/natural-language-preprocessings) - Some recipes of natural language pre-processing
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [hottolink/hottoSNS-bert](https://github.com/hottolink/hottoSNS-bert) - hottoSNS-BERT: 大規模SNSコーパスによる文分散表現モデル
 - [takuseno/d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library
 - [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
