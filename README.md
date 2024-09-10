@@ -511,7 +511,7 @@
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
 - [ibm-research-tokyo/diffsnn](https://github.com/ibm-research-tokyo/diffsnn) - An implementation of a differentiable point process and a differentiable spiking neural network.
