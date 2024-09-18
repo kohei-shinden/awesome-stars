@@ -122,7 +122,7 @@
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
 - [ppasupat/web-entity-extractor-ACL2014](https://github.com/ppasupat/web-entity-extractor-ACL2014) - 
 - [tmanabe/RankLibBM25F-IA](https://github.com/tmanabe/RankLibBM25F-IA) - A Learning to Rank Library
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [castorini/anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 
