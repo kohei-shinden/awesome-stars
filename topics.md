@@ -90,6 +90,7 @@
 - [nosql](#nosql)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [privacy](#privacy)
 - [pwa](#pwa)
@@ -869,6 +870,13 @@
 ## open-source 
 
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+
+## openai 
+
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
+- [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 
 ## others 
 
