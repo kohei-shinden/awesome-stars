@@ -431,7 +431,7 @@
 - [S-aiueo32/lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) - A simple and useful implementation of LPIPS.
 - [castorini/bertserini](https://github.com/castorini/bertserini) - BERTserini
 - [microsoft/MSMARCO-Passage-Ranking-Submissions](https://github.com/microsoft/MSMARCO-Passage-Ranking-Submissions) - Submission archive for the MS MARCO passage ranking leaderboard
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [hltcoe/HC4](https://github.com/hltcoe/HC4) - HLTCOE CLIR Common-Crawl Collection
@@ -522,7 +522,7 @@
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) - Structural implementation of RL key algorithms
 - [dongminlee94/deep_rl](https://github.com/dongminlee94/deep_rl) - PyTorch implementation of deep reinforcement learning algorithms
 - [liyinxiao/UnifiedEmbeddingModel](https://github.com/liyinxiao/UnifiedEmbeddingModel) - Implementation of unified embedding model from Embedding-based Retrieval in Facebook Search.
-- [thomas0809/GraphIE](https://github.com/thomas0809/GraphIE) - 
+- [thomas0809/GraphIE](https://github.com/thomas0809/GraphIE) - A Graph-Based Framework for Information Extraction
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
 - [AdeDZY/DeepCT](https://github.com/AdeDZY/DeepCT) - DeepCT and HDCT uses BERT to generate novel, context-aware bag-of-words term weights for documents and queries.
 - [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL) - PyTorch implementation of Deep Reinforcement Learning: Policy Gradient methods (TRPO, PPO, A2C) and Generative Adversarial Imitation Learning (GAIL). Fast Fisher vector product TRPO.
