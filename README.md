@@ -315,7 +315,7 @@
 
 ## Python 
 
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation library for your LLM Applications
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [arezooSarvi/outlierbias](https://github.com/arezooSarvi/outlierbias) - This repository contains the code used for the experiments in "On the Impact of Outlier Bias on User Clicks", which will be published at SIGIR 2023.
 - [YadaYuki/news-recommendation-llm](https://github.com/YadaYuki/news-recommendation-llm) - Pre-trained Large Language Model (BERT) Based News Recommendation using Python / PyTorch 🌎
