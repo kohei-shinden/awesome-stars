@@ -456,7 +456,7 @@
 - [caojiangxia/BiGI](https://github.com/caojiangxia/BiGI) - [WSDM 2021]Bipartite Graph Embedding via Mutual Information Maximization
 - [GemsLab/StrucEmbedding-GraphLibrary](https://github.com/GemsLab/StrucEmbedding-GraphLibrary) - The SEMB library is an easy-to-use tool for getting and evaluating structural node embeddings in graphs.
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [AkariAsai/CORA](https://github.com/AkariAsai/CORA) - This is the official implementation of NeurIPS 2021 "One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval".
 - [facebookresearch/DPR](https://github.com/facebookresearch/DPR) - Dense Passage Retriever - is a set of tools and models for open domain Q&A task.
 - [cl-tohoku/AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
