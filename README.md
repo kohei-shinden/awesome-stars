@@ -122,7 +122,6 @@
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
 - [ppasupat/web-entity-extractor-ACL2014](https://github.com/ppasupat/web-entity-extractor-ACL2014) - 
 - [tmanabe/RankLibBM25F-IA](https://github.com/tmanabe/RankLibBM25F-IA) - A Learning to Rank Library
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [castorini/anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 
@@ -378,11 +377,9 @@
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [Zhang-xiaokun/CoHHN](https://github.com/Zhang-xiaokun/CoHHN) - Session-based Recommendation, CoHHN, price preferences, interest preferences, Heterogeneous Hypergraph, Co-guided Learning, SIGIR2022
-- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [RUCAIBox/DPGNN](https://github.com/RUCAIBox/DPGNN) - Codes of Modeling Two-Way Selection Preference for Person-Job Fit
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [XinyiYan/duelingBandits](https://github.com/XinyiYan/duelingBandits) - 
-- [elastic/eland](https://github.com/elastic/eland) - Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [xiaxin1998/OD-Rec](https://github.com/xiaxin1998/OD-Rec) - Codes for SIGIR'22 Paper 'On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation'
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) - Implementation and experiments  of graph embedding algorithms.
