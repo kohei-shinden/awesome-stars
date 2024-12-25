@@ -584,7 +584,6 @@
 - [pengbaolin/SC-GPT](https://github.com/pengbaolin/SC-GPT) - Few-shot Natural Language Generation for Task-Oriented Dialog
 - [yumeng5/LOTClass](https://github.com/yumeng5/LOTClass) - [EMNLP 2020] Text Classification Using Label Names Only: A Language Model Self-Training Approach
 - [namisan/mt-dnn](https://github.com/namisan/mt-dnn) - Multi-Task Deep Neural Networks for Natural Language Understanding
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [castorini/duobert](https://github.com/castorini/duobert) - Multi-stage passage ranking: monoBERT + duoBERT
 - [cl-tohoku/bert-japanese](https://github.com/cl-tohoku/bert-japanese) - BERT models for Japanese text.
 - [singletongue/WikiEntVec](https://github.com/singletongue/WikiEntVec) - Distributed representations of words and named entities trained on Wikipedia.
