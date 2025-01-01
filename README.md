@@ -336,7 +336,7 @@
 - [THUIR/T2Ranking](https://github.com/THUIR/T2Ranking) - T2Ranking: A large-scale Chinese benchmark for passage ranking.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [earth-genome/ChatGeoPT](https://github.com/earth-genome/ChatGeoPT) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
