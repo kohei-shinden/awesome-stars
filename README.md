@@ -356,7 +356,7 @@
 - [rixwew/pytorch-fm](https://github.com/rixwew/pytorch-fm) - Factorization Machine models in PyTorch
 - [yaoxingcheng/TLM](https://github.com/yaoxingcheng/TLM) - ICML'2022: NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [ielab/Counterfactual-DR](https://github.com/ielab/Counterfactual-DR) - The official repository for 'Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach', Shengyao Zhuang, Hang Li and Guido Zuccon, SIGIR2022
 - [digital-go-jp/mojxml2geojson](https://github.com/digital-go-jp/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
