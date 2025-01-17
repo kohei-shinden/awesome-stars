@@ -126,7 +126,7 @@
 
 ## ai 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -612,7 +612,7 @@
 
 ## language 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## latex 
@@ -656,7 +656,7 @@
 
 - [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
