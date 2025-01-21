@@ -198,7 +198,6 @@
 - [stockmarkteam/bert-book](https://github.com/stockmarkteam/bert-book) - 「BERTによる自然言語処理入門: Transformersを使った実践プログラミング」サポートページ
 - [takitsuba/midoribon](https://github.com/takitsuba/midoribon) - 
 - [jkatsuta/18_4q_doc2vec](https://github.com/jkatsuta/18_4q_doc2vec) - 18-4Q blog's note
-- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
 - [nvedant07/Fairness-Through-Robustness](https://github.com/nvedant07/Fairness-Through-Robustness) - Official code for FAccT'21 paper "Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning" https://arxiv.org/abs/2006.12621
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [c4ra/kaken_parse_grants_masterxml](https://github.com/c4ra/kaken_parse_grants_masterxml) - KAKENデータベースからXMLファイルをダウンロードして、課題ごとに必要な項目をローカルのデータベースに保存します。
@@ -511,6 +510,7 @@
 - [informagi/REL](https://github.com/informagi/REL) - REL: Radboud Entity Linker
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
