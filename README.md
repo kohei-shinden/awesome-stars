@@ -61,6 +61,7 @@
 - [polm/fugashi](https://github.com/polm/fugashi) - A Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis.
 - [xptree/LightNE](https://github.com/xptree/LightNE) - 
 - [bab2min/tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [OctoberChang/X-Transformer](https://github.com/OctoberChang/X-Transformer) - X-Transformer: Taming Pretrained Transformers for eXtreme Multi-label Text Classification
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [cvangysel/pytrec_eval](https://github.com/cvangysel/pytrec_eval) - pytrec_eval is an Information Retrieval evaluation tool for Python, based on the popular trec_eval.
@@ -84,7 +85,6 @@
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [isucon/isucon11-qualify](https://github.com/isucon/isucon11-qualify) - ISUCON11 予選 (ISUCONDITION)
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [isucon/isucon11-prior](https://github.com/isucon/isucon11-prior) - 
 - [mathetake/intergo](https://github.com/mathetake/intergo) - A package for interleaving / multileaving ranking generation in go
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
