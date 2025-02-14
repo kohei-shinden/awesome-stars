@@ -132,6 +132,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) - A Python package to assess and improve fairness of machine learning models.
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -162,6 +163,7 @@
 ## api 
 
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## artificial-intelligence 
@@ -600,7 +602,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [mquad/sars_tutorial](https://github.com/mquad/sars_tutorial) - Repository for the tutorial on Sequence-Aware Recommender Systems held at TheWebConf 2019 and ACM RecSys 2018
 - [atsukoba/LabelEstimator](https://github.com/atsukoba/LabelEstimator) - Simple Unsupervised Document Labeling with MeCab and Pretrained Doc2Vec Model and some experiments about `Doc2Vec.infer_vector()`
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 
 ## kubernetes 
@@ -1243,7 +1245,7 @@
 - [plasticityai/magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package.
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) - The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -1383,7 +1385,6 @@
 
 ## rust 
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [jjfiv/fastrank](https://github.com/jjfiv/fastrank) - My most frequently used learning-to-rank algorithms ported to rust for efficiency. Try it: "pip install fastrank".
 - [daac-tools/daachorse](https://github.com/daac-tools/daachorse) - 🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.
 - [daac-tools/vaporetto](https://github.com/daac-tools/vaporetto) - 🛥 Vaporetto: Very accelerated pointwise prediction based tokenizer
