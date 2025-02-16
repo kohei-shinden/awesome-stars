@@ -887,7 +887,7 @@
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [kunishou/Japanese-Alpaca-LoRA](https://github.com/kunishou/Japanese-Alpaca-LoRA) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [THUIR/T2Ranking](https://github.com/THUIR/T2Ranking) - T2Ranking: A large-scale Chinese benchmark for passage ranking.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [earth-genome/ChatGeoPT](https://github.com/earth-genome/ChatGeoPT) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
