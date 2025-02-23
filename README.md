@@ -164,7 +164,7 @@
 - [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
-- [graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) - Repository for benchmarking graph neural networks
+- [graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) - Repository for benchmarking graph neural networks (JMLR 2023)
 - [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) - Jupyter notebooks for the Natural Language Processing with Transformers book
 - [fastforwardlabs/session_based_recommenders](https://github.com/fastforwardlabs/session_based_recommenders) - Official repo for FF19: Session-based Recommender Systems
 - [Netflix-Skunkworks/rl_for_budget_constrained_recs](https://github.com/Netflix-Skunkworks/rl_for_budget_constrained_recs) - 
