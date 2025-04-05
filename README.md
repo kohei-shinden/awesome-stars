@@ -52,7 +52,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [DeepRec-AI/HybridBackend](https://github.com/DeepRec-AI/HybridBackend) - A high-performance framework for training wide-and-deep recommender systems on heterogeneous cluster
 - [tangjianpku/LINE](https://github.com/tangjianpku/LINE) - LINE: Large-scale information network embedding
