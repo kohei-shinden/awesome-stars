@@ -405,7 +405,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [irecsys/DeepCARSKit](https://github.com/irecsys/DeepCARSKit) - A Deep Learning Based Context-Aware Recommendation Library
 - [hppRC/template-pytorch-lightning-hydra-mlflow-poetry](https://github.com/hppRC/template-pytorch-lightning-hydra-mlflow-poetry) - An easy to use ML template project using Pytorch-Lightning, Hydra, Mlflow, and Poetry.
-- [texttron/tevatron](https://github.com/texttron/tevatron) - Tevatron - A flexible toolkit for neural retrieval research and development.
+- [texttron/tevatron](https://github.com/texttron/tevatron) - Tevatron - Unified Document Retrieval Toolkit across Scale, Language, and Modality. Demo in SIGIR 2023, SIGIR 2025.
 - [allenai/dont-stop-pretraining](https://github.com/allenai/dont-stop-pretraining) - Code associated with the Don't Stop Pretraining ACL 2020 paper
 - [joisino/wordtour](https://github.com/joisino/wordtour) - Code for "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem" (NAACL 2022)
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
