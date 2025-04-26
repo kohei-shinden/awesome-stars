@@ -138,6 +138,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
@@ -1002,7 +1003,6 @@
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
 - [kn1cht/doctor-funding-calendar](https://github.com/kn1cht/doctor-funding-calendar) - Calendar of doctoral students funding programs
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
-- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [mooreniemi/suntan](https://github.com/mooreniemi/suntan) - A utility to dump Elasticsearch Lucene shards into Tantivy.
@@ -1238,6 +1238,7 @@
 - [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec) - An Open-source Toolkit for Deep Learning based Recommendation with Tensorflow.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
+- [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [chokkan/mlnote](https://github.com/chokkan/mlnote) - 機械学習帳
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
