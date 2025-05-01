@@ -259,7 +259,7 @@
 
 ## Mojo 
 
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## OpenEdge ABL 
 
