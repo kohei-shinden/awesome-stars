@@ -109,7 +109,6 @@
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [KnowledgeGraphJapan/KGRC-RDF](https://github.com/KnowledgeGraphJapan/KGRC-RDF) - RDF data for Knowledge Graph Reasoning Challenge.
 - [UTokyo-ICEPP/qc-workbook](https://github.com/UTokyo-ICEPP/qc-workbook) - Quantum computing workbook by ICEPP
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [ir-anthology/ir-anthology](https://github.com/ir-anthology/ir-anthology) - Software for building the IR Anthology.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -527,6 +526,7 @@
 - [AdeDZY/DeepCT](https://github.com/AdeDZY/DeepCT) - DeepCT and HDCT uses BERT to generate novel, context-aware bag-of-words term weights for documents and queries.
 - [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL) - PyTorch implementation of Deep Reinforcement Learning: Policy Gradient methods (TRPO, PPO, A2C) and Generative Adversarial Imitation Learning (GAIL). Fast Fisher vector product TRPO.
 - [ashkamath/mdetr](https://github.com/ashkamath/mdetr) - 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [liuyukid/transformers-ner](https://github.com/liuyukid/transformers-ner) - Pytorch-Named-Entity-Recognition-with-transformers
