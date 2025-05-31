@@ -248,7 +248,6 @@
 
 ## Makefile 
 
-- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
@@ -379,6 +378,7 @@
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [RUCAIBox/DPGNN](https://github.com/RUCAIBox/DPGNN) - Codes of Modeling Two-Way Selection Preference for Person-Job Fit
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [XinyiYan/duelingBandits](https://github.com/XinyiYan/duelingBandits) - 
 - [elastic/eland](https://github.com/elastic/eland) - Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [xiaxin1998/OD-Rec](https://github.com/xiaxin1998/OD-Rec) - Codes for SIGIR'22 Paper 'On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation'
