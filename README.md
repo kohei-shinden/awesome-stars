@@ -617,7 +617,7 @@
 - [kivy/pyjnius](https://github.com/kivy/pyjnius) - Access Java classes from Python
 - [mocobeta/janome](https://github.com/mocobeta/janome) - Japanese morphological analysis engine written in pure Python
 - [castorini/birch](https://github.com/castorini/birch) - Document ranking via sentence modeling using BERT
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [oreilly-japan/deep-learning-from-scratch-2](https://github.com/oreilly-japan/deep-learning-from-scratch-2) - 『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [c-bata/pysearch](https://github.com/c-bata/pysearch) - Web crawler and Search engine in Python.
