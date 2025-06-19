@@ -102,7 +102,6 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [recsyslab/recsys-text](https://github.com/recsyslab/recsys-text) - 
 - [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
@@ -129,6 +128,7 @@
 
 ## JavaScript 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
