@@ -447,7 +447,7 @@
 - [maxuewei2/RiWalk](https://github.com/maxuewei2/RiWalk) - Code for the ICDM 2019 Paper "RiWalk: Fast Structural Node Embedding via Role Identification".
 - [GemsLab/MultiLENS](https://github.com/GemsLab/MultiLENS) - Framework for latent network summarization: bridging network embedding and summarization
 - [tadpole/DRNE](https://github.com/tadpole/DRNE) - The Implementation of "Deep Recursive Network Embedding with Regular Equivalence"(KDD 2018)
-- [bmitra-msft/TREC-Deep-Learning-Quick-Start](https://github.com/bmitra-msft/TREC-Deep-Learning-Quick-Start) - 
+- [bhaskar-mitra/TREC-Deep-Learning-Quick-Start](https://github.com/bhaskar-mitra/TREC-Deep-Learning-Quick-Start) - 
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [argonism/piyo](https://github.com/argonism/piyo) - 🐣 esa API v1 client library, written in python
 - [Albert-Ma/PROP](https://github.com/Albert-Ma/PROP) - WSDM'2021, PROP and SIGIR'2021,B-PROP
