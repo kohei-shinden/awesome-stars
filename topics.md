@@ -1017,7 +1017,7 @@
 - [tangjianpku/LINE](https://github.com/tangjianpku/LINE) - LINE: Large-scale information network embedding
 - [snap-stanford/graphwave](https://github.com/snap-stanford/graphwave) - 
 - [tadpole/DRNE](https://github.com/tadpole/DRNE) - The Implementation of "Deep Recursive Network Embedding with Regular Equivalence"(KDD 2018)
-- [bmitra-msft/TREC-Deep-Learning-Quick-Start](https://github.com/bmitra-msft/TREC-Deep-Learning-Quick-Start) - 
+- [bhaskar-mitra/TREC-Deep-Learning-Quick-Start](https://github.com/bhaskar-mitra/TREC-Deep-Learning-Quick-Start) - 
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [argonism/piyo](https://github.com/argonism/piyo) - 🐣 esa API v1 client library, written in python
