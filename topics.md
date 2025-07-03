@@ -754,6 +754,7 @@
 
 ## microsoft 
 
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [namisan/mt-dnn](https://github.com/namisan/mt-dnn) - Multi-Task Deep Neural Networks for Natural Language Understanding
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
