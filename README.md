@@ -303,7 +303,7 @@
 - [virtualsecureplatform/MitouDocument](https://github.com/virtualsecureplatform/MitouDocument) - 未踏応募書類と成果報告書
 - [ycjing/Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) - :pencil2: Neural Style Transfer: A Review
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [DigitalNatureGroup/Remote_Voice_Recognition](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition) - リモートミーティングでの音声認識の活用事例
