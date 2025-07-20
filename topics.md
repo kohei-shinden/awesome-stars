@@ -24,6 +24,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [cms](#cms)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
@@ -268,6 +269,10 @@
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoder command line tools
+
+## cms 
+
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## computer-science 
 
