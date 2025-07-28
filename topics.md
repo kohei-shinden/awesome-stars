@@ -39,6 +39,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [developer-tools](#developer-tools)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -445,6 +446,12 @@
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+
+## developer-tools 
+
+- [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 
 ## django 
 
