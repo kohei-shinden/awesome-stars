@@ -563,7 +563,7 @@
 - [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert) - 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [shanglianlm0525/PyTorch-Networks](https://github.com/shanglianlm0525/PyTorch-Networks) - Pytorch implementation of cnn network
 - [castorini/docTTTTTquery](https://github.com/castorini/docTTTTTquery) - docTTTTTquery document expansion model
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
