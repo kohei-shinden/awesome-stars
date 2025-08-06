@@ -304,7 +304,6 @@
 
 ## cpp 
 
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) - The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 
@@ -1477,7 +1476,6 @@
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [Mehran-k/SimplE](https://github.com/Mehran-k/SimplE) - SimplE Embedding for Link Prediction in Knowledge Graphs
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
