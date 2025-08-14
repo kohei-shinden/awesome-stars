@@ -160,7 +160,7 @@
 - [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) - 
 - [oshizo/JapaneseEmbeddingTrain](https://github.com/oshizo/JapaneseEmbeddingTrain) - 
 - [oshizo/gpt_index_japanese_trial](https://github.com/oshizo/gpt_index_japanese_trial) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [gasteigerjo/ppnp](https://github.com/gasteigerjo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank" (ICLR 2019)
@@ -177,7 +177,6 @@
 - [kwakaba/mlpr-class](https://github.com/kwakaba/mlpr-class) - 
 - [oreilly-japan/RecommenderSystems](https://github.com/oreilly-japan/RecommenderSystems) - 『推薦システム実践入門』のリポジトリ
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
-- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
 - [TUMLegalTech/bva-citation-prediction](https://github.com/TUMLegalTech/bva-citation-prediction) - 
 - [recsyslab/recsys-python](https://github.com/recsyslab/recsys-python) - 
 - [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT) - Financial Sentiment Analysis with BERT
@@ -411,6 +410,7 @@
 - [LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank) - LibRerank is a toolkit for re-ranking algorithms. There are a number of re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
 - [rish-16/grafog](https://github.com/rish-16/grafog) - Graph Data Augmentation Library for PyTorch Geometric
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
+- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
 - [naver/splade](https://github.com/naver/splade) - SPLADE: sparse neural search (SIGIR21, SIGIR22)
 - [easezyc/WSDM2022-PTUPCDR](https://github.com/easezyc/WSDM2022-PTUPCDR) - This is the official implementation of our paper Personalized Transfer of User Preferences for Cross-domain Recommendation (PTUPCDR), which has been accepted by WSDM2022.
 - [DyGRec/TGSRec](https://github.com/DyGRec/TGSRec) - 
