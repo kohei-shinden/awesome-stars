@@ -223,7 +223,6 @@
 - [karl-zhao/benchmarking-gnns-pyg](https://github.com/karl-zhao/benchmarking-gnns-pyg) - 
 - [YutaroOgawa/pytorch_tutorials_jp](https://github.com/YutaroOgawa/pytorch_tutorials_jp) - PyTorch公式チュートリアル（日本語翻訳版）の各ノートブックファイル（Google Colab用）です
 - [patil-suraj/onnx_transformers](https://github.com/patil-suraj/onnx_transformers) - Accelerated NLP pipelines for fast inference on CPU. Built with Transformers and ONNX runtime.
-- [nekoumei/DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 
 - [marcotcr/checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [YutaroOgawa/pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced) - 書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
