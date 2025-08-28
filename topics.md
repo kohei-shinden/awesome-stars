@@ -1197,7 +1197,6 @@
 - [singletongue/WikiEntVec](https://github.com/singletongue/WikiEntVec) - Distributed representations of words and named entities trained on Wikipedia.
 - [takatori/go-tinysearch](https://github.com/takatori/go-tinysearch) - 
 - [yinwenpeng/BenchmarkingZeroShot](https://github.com/yinwenpeng/BenchmarkingZeroShot) - 
-- [nekoumei/DocumentClassificationUsingBERT-Japanese](https://github.com/nekoumei/DocumentClassificationUsingBERT-Japanese) - 
 - [spotify-research/cosernn](https://github.com/spotify-research/cosernn) - Code for the paper "Contextual and Sequential User Embeddings for Large-Scale Music Recommendation".
 - [marcotcr/checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [YutaroOgawa/pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced) - 書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
