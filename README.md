@@ -353,7 +353,7 @@
 - [digital-go-jp/mojxml2geojson](https://github.com/digital-go-jp/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
 - [twjiang/graphSAGE-pytorch](https://github.com/twjiang/graphSAGE-pytorch) - A PyTorch implementation of GraphSAGE. This package contains a PyTorch implementation of GraphSAGE.
 - [kavehhassani/mvgrl](https://github.com/kavehhassani/mvgrl) - 
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
