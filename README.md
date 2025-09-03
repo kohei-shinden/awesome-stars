@@ -213,6 +213,7 @@
 - [terrier-org/ecir2021tutorial](https://github.com/terrier-org/ecir2021tutorial) - 
 - [mpkato/Statistical-Reform-in-IR](https://github.com/mpkato/Statistical-Reform-in-IR) - Statistical Reform in Information Retrieval? (Tetsuya Sakai, SIGIR Forum, 2014)
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
+- [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) - A Python framework for performing information retrieval experiments, building on http://terrier.org/
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [stephenleo/adventures-with-ann](https://github.com/stephenleo/adventures-with-ann) - All the code for a series of Medium articles on Approximate Nearest Neighbors
 - [sbharadwajj/embarrassingly-simple-zero-shot-learning](https://github.com/sbharadwajj/embarrassingly-simple-zero-shot-learning) - This is a started/demo code for Zero-Shot-Learning via implementation of Embarrassingly simple ZSL (ICML 2015)
@@ -544,7 +545,6 @@
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD (NeurIPS 2021)
 - [instillai/deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) - A Python framework for performing information retrieval experiments, building on http://terrier.org/
 - [cmacdonald/pyterrier_bert](https://github.com/cmacdonald/pyterrier_bert) - 
 - [microsoft/MSMARCO-Document-Ranking](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage/document ranking
 - [WorksApplications/SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
