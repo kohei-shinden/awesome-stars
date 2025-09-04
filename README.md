@@ -406,7 +406,7 @@
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [PaddlePaddle/RocketQA](https://github.com/PaddlePaddle/RocketQA) - 🚀 RocketQA, dense retrieval for information retrieval and question answering, including both Chinese and English state-of-the-art models.
 - [wuliwei9278/SSE-PT](https://github.com/wuliwei9278/SSE-PT) - Codes and Datasets for paper RecSys'20 "SSE-PT: Sequential Recommendation Via Personalized Transformer" and NurIPS'19 "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank) - LibRerank is a toolkit for re-ranking algorithms. There are a number of re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
 - [rish-16/grafog](https://github.com/rish-16/grafog) - Graph Data Augmentation Library for PyTorch Geometric
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
