@@ -176,7 +176,7 @@
 - [logics-of-blue/book-decision-analysis-and-forecast](https://github.com/logics-of-blue/book-decision-analysis-and-forecast) - 書籍「意思決定分析と予測の活用 基礎理論からPython実装まで」のサンプルコードとデータ
 - [kwakaba/mlpr-class](https://github.com/kwakaba/mlpr-class) - 
 - [oreilly-japan/RecommenderSystems](https://github.com/oreilly-japan/RecommenderSystems) - 『推薦システム実践入門』のリポジトリ
-- [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
+- [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
 - [TUMLegalTech/bva-citation-prediction](https://github.com/TUMLegalTech/bva-citation-prediction) - 
 - [recsyslab/recsys-python](https://github.com/recsyslab/recsys-python) - 
 - [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT) - Financial Sentiment Analysis with BERT
