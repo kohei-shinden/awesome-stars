@@ -97,6 +97,7 @@
 - [openai](#openai)
 - [others](#others)
 - [privacy](#privacy)
+- [programming-language](#programming-language)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -1246,6 +1247,10 @@
 
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
+
+## programming-language 
+
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## pwa 
 
