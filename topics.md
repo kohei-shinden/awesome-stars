@@ -24,6 +24,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -278,6 +279,10 @@
 - [mosuka/wikipedia-jsonl](https://github.com/mosuka/wikipedia-jsonl) - wikipedia-jsonl is a CLI that converts Wikipedia dump XML to JSON Lines format.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoder command line tools
+
+## cloud 
+
+- [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 
 ## cms 
 
