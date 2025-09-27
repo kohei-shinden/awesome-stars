@@ -228,7 +228,6 @@
 - [YutaroOgawa/pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced) - 書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
 - [yoheikikuta/bert-japanese](https://github.com/yoheikikuta/bert-japanese) - BERT with SentencePiece for Japanese text.
-- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [HOXOMInc/feature-engineering-book](https://github.com/HOXOMInc/feature-engineering-book) - 『機械学習のための特徴量エンジニアリング』のサンプルコード集
 - [maruyama097/coq-tutorial](https://github.com/maruyama097/coq-tutorial) - coq-tutorial
 - [tarotez/pyml](https://github.com/tarotez/pyml) - Machine learning course using Python
@@ -593,6 +592,7 @@
 - [mpkato/pyNTCIREVAL](https://github.com/mpkato/pyNTCIREVAL) - Python version of NTCIREVAL http://research.nii.ac.jp/ntcir/tools/ntcireval-en.html
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
+- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [yagays/embedrank](https://github.com/yagays/embedrank) - Python Implementation of EmbedRank
 - [takuseno/d4rl-atari](https://github.com/takuseno/d4rl-atari) - Datasets for data-driven deep reinforcement learning with Atari (wrapper for datasets released by Google)
 - [takuseno/d4rl-pybullet](https://github.com/takuseno/d4rl-pybullet) - Datasets for data-driven deep reinforcement learning with PyBullet environments
