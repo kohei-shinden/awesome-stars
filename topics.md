@@ -391,7 +391,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [HewlettPackard/swarm-learning](https://github.com/HewlettPackard/swarm-learning) - A simplified library for decentralized, privacy preserving machine learning
-- [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
+- [meta-pytorch/torchrec](https://github.com/meta-pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -1337,7 +1337,7 @@
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
-- [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
+- [meta-pytorch/torchrec](https://github.com/meta-pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
 - [rixwew/pytorch-fm](https://github.com/rixwew/pytorch-fm) - Factorization Machine models in PyTorch
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
