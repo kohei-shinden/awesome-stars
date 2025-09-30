@@ -338,7 +338,7 @@
 - [karapostK/ProtoMF](https://github.com/karapostK/ProtoMF) - This repository hosts the code and the additional materials for the paper "ProtoMF: Prototype-based Matrix Factorization for Effective and Explainable Recommendations" by Alessandro B. Melchiorre, Nav
 - [hcai-mms/ProtoMF](https://github.com/hcai-mms/ProtoMF) - This repository hosts the code and the additional materials for the paper "ProtoMF: Prototype-based Matrix Factorization for Effective and Explainable Recommendations" by Alessandro B. Melchiorre, Nav
 - [shunk031/huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
-- [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
+- [meta-pytorch/torchrec](https://github.com/meta-pytorch/torchrec) - Pytorch domain library for recommendation systems
 - [facebookresearch/dpr-scale](https://github.com/facebookresearch/dpr-scale) - Scalable training for dense retrieval models.
 - [khanhnamle1994/MetaRec](https://github.com/khanhnamle1994/MetaRec) - PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models
 - [yao8839836/kg-bert](https://github.com/yao8839836/kg-bert) - KG-BERT: BERT for Knowledge Graph Completion
