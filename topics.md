@@ -1235,7 +1235,7 @@
 - [mpkato/interleaving](https://github.com/mpkato/interleaving) - A python library for conducting interleaving, which compares two or multiple rankers based on observed user clicks by interleaving their results.
 - [neo4j-examples/golang-bolt-movie-example](https://github.com/neo4j-examples/golang-bolt-movie-example) - Movie example for the golang neo4j bolt driver
 - [souring001/illumi-packet](https://github.com/souring001/illumi-packet) - Illuminating Packets on an Ethernet Cable using LED Strip.
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
 - [hottolink/hottoSNS-bert](https://github.com/hottolink/hottoSNS-bert) - hottoSNS-BERT: 大規模SNSコーパスによる文分散表現モデル
 - [xinyandai/string-embed](https://github.com/xinyandai/string-embed) - string embed for fast edit distance computation, codes for [Convolutional Embedding for Edit Distance (SIGIR 20)].
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
