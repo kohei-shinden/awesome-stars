@@ -17,6 +17,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -240,6 +241,10 @@
 
 - [shumaikunkun/Hanoi](https://github.com/shumaikunkun/Hanoi) - 61種類のプログラミング言語でハノイの塔を実装【どなたでもプルリクお待ちしています☺️】
 
+## MDX 
+
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+
 ## Makefile 
 
 - [ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial) - gRPC tutorial for Japanese readers
@@ -432,7 +437,7 @@
 - [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
@@ -505,7 +510,6 @@
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
 - [ibm-research-tokyo/diffsnn](https://github.com/ibm-research-tokyo/diffsnn) - An implementation of a differentiable point process and a differentiable spiking neural network.
