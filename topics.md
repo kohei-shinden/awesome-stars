@@ -208,7 +208,7 @@
 
 ## awesome 
 
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) - An index of algorithms for offline reinforcement learning (offline-rl)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -218,7 +218,7 @@
 
 ## awesome-list 
 
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) - An index of algorithms for offline reinforcement learning (offline-rl)
@@ -263,7 +263,7 @@
 
 ## chatgpt 
 
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
@@ -677,7 +677,7 @@
 ## llm 
 
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -797,7 +797,7 @@
 
 ## microsoft 
 
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [namisan/mt-dnn](https://github.com/namisan/mt-dnn) - Multi-Task Deep Neural Networks for Natural Language Understanding
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -919,7 +919,7 @@
 
 ## openai 
 
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (RAG, Agent), and references.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
