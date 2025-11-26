@@ -63,6 +63,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
@@ -585,6 +586,10 @@
 ## graphql 
 
 - [neo4j/graphql](https://github.com/neo4j/graphql) - A GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.
+
+## gui 
+
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 
 ## gulp 
 
