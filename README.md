@@ -309,7 +309,7 @@
 
 ## Python 
 
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [arezooSarvi/outlierbias](https://github.com/arezooSarvi/outlierbias) - This repository contains the code used for the experiments in "On the Impact of Outlier Bias on User Clicks", which will be published at SIGIR 2023.
 - [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated reference for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents), and resources.
