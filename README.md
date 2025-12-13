@@ -532,7 +532,6 @@
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [megagonlabs/bunkai](https://github.com/megagonlabs/bunkai) - Sentence boundary disambiguation tool for Japanese texts (日本語文境界判定器)
 - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
-- [IntelLabs/academic-budget-bert](https://github.com/IntelLabs/academic-budget-bert) - Repository containing code for "How to Train BERT with an Academic Budget" paper
 - [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
 - [snap-stanford/ogb](https://github.com/snap-stanford/ogb) - Benchmark datasets, data loaders, and evaluators for graph machine learning
 - [Zhiyu-Chen/SIGIR2020-BERT-Table-Search](https://github.com/Zhiyu-Chen/SIGIR2020-BERT-Table-Search) - 
@@ -685,7 +684,7 @@
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [minosvasilias/toolformer-zero](https://github.com/minosvasilias/toolformer-zero) - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
