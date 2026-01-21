@@ -627,7 +627,6 @@
 
 ## Roff 
 
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [odashi/small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k English-Japanese Parallel Corpus for Machine Translation Benchmark.
 
 ## Ruby 
@@ -671,6 +670,7 @@
 - [MorinoseiMorizo/jparacrawl-finetune](https://github.com/MorinoseiMorizo/jparacrawl-finetune) - An example usage of JParaCrawl pre-trained Neural Machine Translation (NMT) models.
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [krishnanlab/PecanPy_benchmarks](https://github.com/krishnanlab/PecanPy_benchmarks) - 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [p1ass/mdtopdf](https://github.com/p1ass/mdtopdf) - 🐳 Pandoc docker image for converting markdown to PDF using TeX typesetting
