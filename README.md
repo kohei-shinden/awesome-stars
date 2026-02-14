@@ -526,7 +526,6 @@
 - [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL) - PyTorch implementation of Deep Reinforcement Learning: Policy Gradient methods (TRPO, PPO, A2C) and Generative Adversarial Imitation Learning (GAIL). Fast Fisher vector product TRPO.
 - [ashkamath/mdetr](https://github.com/ashkamath/mdetr) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [liuyukid/transformers-ner](https://github.com/liuyukid/transformers-ner) - Pytorch-Named-Entity-Recognition-with-transformers
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
@@ -556,10 +555,8 @@
 - [JudyYe/zero-shot-gcn](https://github.com/JudyYe/zero-shot-gcn) - Zero-Shot Learning with GCN (CVPR 2018)
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
-- [lucidrains/bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert) - 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [shanglianlm0525/PyTorch-Networks](https://github.com/shanglianlm0525/PyTorch-Networks) - Pytorch implementation of cnn network
 - [castorini/docTTTTTquery](https://github.com/castorini/docTTTTTquery) - docTTTTTquery document expansion model
