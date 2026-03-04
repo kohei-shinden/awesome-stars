@@ -53,6 +53,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -529,6 +530,11 @@
 ## ethereum 
 
 - [shargri-la/shargri-la](https://github.com/shargri-la/shargri-la) - A transaction-level sharding simulator for protocol testing against users' behavior on a sharded blockchain.
+
+## fastapi 
+
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## firefox 
 
