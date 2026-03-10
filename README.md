@@ -64,7 +64,7 @@
 - [OctoberChang/X-Transformer](https://github.com/OctoberChang/X-Transformer) - X-Transformer: Taming Pretrained Transformers for eXtreme Multi-label Text Classification
 - [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [cvangysel/pytrec_eval](https://github.com/cvangysel/pytrec_eval) - pytrec_eval is an Information Retrieval evaluation tool for Python, based on the popular trec_eval.
-- [yahoojapan/NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
+- [NGT-labs/NGT](https://github.com/NGT-labs/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
