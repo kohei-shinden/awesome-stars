@@ -1219,7 +1219,7 @@
 - [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) - A Python framework for performing information retrieval experiments, building on http://terrier.org/
 - [cmacdonald/pyterrier_bert](https://github.com/cmacdonald/pyterrier_bert) - 
 - [microsoft/MSMARCO-Document-Ranking](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage/document ranking
-- [yahoojapan/NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
+- [NGT-labs/NGT](https://github.com/NGT-labs/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [WorksApplications/SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
