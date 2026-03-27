@@ -45,6 +45,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [developer-tools](#developer-tools)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -498,6 +499,10 @@
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
+
+## distributed-systems 
+
+- [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 
 ## django 
 
