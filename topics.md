@@ -49,6 +49,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
@@ -155,6 +156,7 @@
 
 ## ai 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -518,6 +520,10 @@
 
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [Qiskit/qiskit-metapackage](https://github.com/Qiskit/qiskit-metapackage) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+
+## dotnet 
+
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 
 ## education 
 
@@ -1339,6 +1345,7 @@
 
 ## python 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [namuan/dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
