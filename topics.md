@@ -1213,7 +1213,6 @@
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [ir-anthology/ir-anthology](https://github.com/ir-anthology/ir-anthology) - Software for building the IR Anthology.
 - [odashi/small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k English-Japanese Parallel Corpus for Machine Translation Benchmark.
-- [Zhiyu-Chen/SIGIR2020-BERT-Table-Search](https://github.com/Zhiyu-Chen/SIGIR2020-BERT-Table-Search) - 
 - [thunlp/OpenMatch](https://github.com/thunlp/OpenMatch) - An Open-Source Package for Information Retrieval.
 - [decomoji/decomoji](https://github.com/decomoji/decomoji) - Custom icon collection for slack reaction
 - [cvangysel/pytrec_eval](https://github.com/cvangysel/pytrec_eval) - pytrec_eval is an Information Retrieval evaluation tool for Python, based on the popular trec_eval.
