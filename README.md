@@ -537,7 +537,6 @@
 - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
 - [snap-stanford/ogb](https://github.com/snap-stanford/ogb) - Benchmark datasets, data loaders, and evaluators for graph machine learning
-- [Zhiyu-Chen/SIGIR2020-BERT-Table-Search](https://github.com/Zhiyu-Chen/SIGIR2020-BERT-Table-Search) - 
 - [sebastian-hofstaetter/teaching](https://github.com/sebastian-hofstaetter/teaching) - Open-Source Information Retrieval Courses @ TU Wien
 - [thunlp/OpenMatch](https://github.com/thunlp/OpenMatch) - An Open-Source Package for Information Retrieval.
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
