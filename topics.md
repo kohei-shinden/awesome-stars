@@ -1084,7 +1084,7 @@
 - [kwakaba/mlpr-class](https://github.com/kwakaba/mlpr-class) - 
 - [irecsys/CARSKit](https://github.com/irecsys/CARSKit) - Java-Based Context-aware Recommendation Library
 - [hppRC/template-pytorch-lightning-hydra-mlflow-poetry](https://github.com/hppRC/template-pytorch-lightning-hydra-mlflow-poetry) - An easy to use ML template project using Pytorch-Lightning, Hydra, Mlflow, and Poetry.
-- [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
+- [austin-liu-yang/FedRecPapers](https://github.com/austin-liu-yang/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [oreilly-japan/RecommenderSystems](https://github.com/oreilly-japan/RecommenderSystems) - 『推薦システム実践入門』のリポジトリ
 - [wuliwei9278/SSE-PT](https://github.com/wuliwei9278/SSE-PT) - Codes and Datasets for paper RecSys'20 "SSE-PT: Sequential Recommendation Via Personalized Transformer" and NurIPS'19 "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"
