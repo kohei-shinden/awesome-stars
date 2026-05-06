@@ -276,7 +276,7 @@
 - [OnYuKang/Recommendation-systems-paperlist](https://github.com/OnYuKang/Recommendation-systems-paperlist) - Papers about recommendation systems that I am interested in
 - [RUCAIBox/RecBole2.0](https://github.com/RUCAIBox/RecBole2.0) - An  up-to-date, comprehensive and flexible recommendation library
 - [masamasa59/uncertainty-paper](https://github.com/masamasa59/uncertainty-paper) - 
-- [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
+- [austin-liu-yang/FedRecPapers](https://github.com/austin-liu-yang/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
 - [mercari/ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lmcRS/AWS-recommendation-papers](https://github.com/lmcRS/AWS-recommendation-papers) - 
 - [doc-analysis/TableBank](https://github.com/doc-analysis/TableBank) - TableBank: A Benchmark Dataset for Table Detection and Recognition
