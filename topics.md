@@ -1220,7 +1220,7 @@
 - [castorini/pygaggle](https://github.com/castorini/pygaggle) - a gaggle of deep neural architectures for text ranking and question answering, designed for Pyserini
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
-- [ir-anthology/ir-anthology](https://github.com/ir-anthology/ir-anthology) - Software for building the IR Anthology.
+- [ir-anthology/ir-anthology-old](https://github.com/ir-anthology/ir-anthology-old) - Software for building the IR Anthology.
 - [odashi/small_parallel_enja](https://github.com/odashi/small_parallel_enja) - 50k English-Japanese Parallel Corpus for Machine Translation Benchmark.
 - [thunlp/OpenMatch](https://github.com/thunlp/OpenMatch) - An Open-Source Package for Information Retrieval.
 - [decomoji/decomoji](https://github.com/decomoji/decomoji) - Custom icon collection for slack reaction
