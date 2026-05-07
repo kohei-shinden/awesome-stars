@@ -111,7 +111,7 @@
 - [KnowledgeGraphJapan/KGRC-RDF](https://github.com/KnowledgeGraphJapan/KGRC-RDF) - RDF data for Knowledge Graph Reasoning Challenge.
 - [UTokyo-ICEPP/qc-workbook](https://github.com/UTokyo-ICEPP/qc-workbook) - Quantum computing workbook by ICEPP
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [ir-anthology/ir-anthology](https://github.com/ir-anthology/ir-anthology) - Software for building the IR Anthology.
+- [ir-anthology/ir-anthology-old](https://github.com/ir-anthology/ir-anthology-old) - Software for building the IR Anthology.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
