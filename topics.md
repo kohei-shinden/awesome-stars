@@ -181,7 +181,7 @@
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -675,7 +675,7 @@
 ## java 
 
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -791,7 +791,7 @@
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [benedekrozemberczki/role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [hical/HiCAL](https://github.com/hical/HiCAL) - HiCAL is a system for efficient high-recall retrieval with an adaptable assessing interface.
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -1485,7 +1485,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 
@@ -1568,7 +1568,7 @@
 ## server 
 
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 
 ## shell 
 
