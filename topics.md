@@ -1026,7 +1026,6 @@
 - [shunk031/huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
 - [facebookresearch/dpr-scale](https://github.com/facebookresearch/dpr-scale) - Scalable training for dense retrieval models.
 - [minosvasilias/toolformer-zero](https://github.com/minosvasilias/toolformer-zero) - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
-- [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
 - [yao8839836/kg-bert](https://github.com/yao8839836/kg-bert) - KG-BERT: BERT for Knowledge Graph Completion
 - [ntcirtransfer/transfer1](https://github.com/ntcirtransfer/transfer1) - Repository for NTCIR-17 Transfer Task
 - [acheong08/ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject cloudflare cookies
