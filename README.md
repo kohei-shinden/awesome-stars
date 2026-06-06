@@ -303,7 +303,6 @@
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-- [DigitalNatureGroup/Remote_Voice_Recognition](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition) - リモートミーティングでの音声認識の活用事例
 - [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes) - repository to research & share the machine learning articles
 
 ## Python 
@@ -438,7 +437,7 @@
 - [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
