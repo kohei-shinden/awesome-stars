@@ -9,6 +9,7 @@
 - [C](#c)
 - [C++](#c++)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -76,6 +77,10 @@
 - [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## Dockerfile 
+
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## Go 
 
@@ -437,7 +442,6 @@
 - [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [vespa-engine/pyvespa](https://github.com/vespa-engine/pyvespa) - Python API for https://vespa.ai, the open big data serving engine
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
