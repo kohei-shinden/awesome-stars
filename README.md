@@ -180,7 +180,6 @@
 - [logics-of-blue/book-decision-analysis-and-forecast](https://github.com/logics-of-blue/book-decision-analysis-and-forecast) - 書籍「意思決定分析と予測の活用 基礎理論からPython実装まで」のサンプルコードとデータ
 - [kwakaba/mlpr-class](https://github.com/kwakaba/mlpr-class) - 
 - [oreilly-japan/RecommenderSystems](https://github.com/oreilly-japan/RecommenderSystems) - 『推薦システム実践入門』のリポジトリ
-- [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
 - [TUMLegalTech/bva-citation-prediction](https://github.com/TUMLegalTech/bva-citation-prediction) - 
 - [recsyslab/recsys-python](https://github.com/recsyslab/recsys-python) - 
 - [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT) - Financial Sentiment Analysis with BERT
@@ -414,6 +413,7 @@
 - [joisino/wordtour](https://github.com/joisino/wordtour) - Code for "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem" (NAACL 2022)
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [PaddlePaddle/RocketQA](https://github.com/PaddlePaddle/RocketQA) - 🚀 RocketQA, dense retrieval for information retrieval and question answering, including both Chinese and English state-of-the-art models.
+- [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
 - [wuliwei9278/SSE-PT](https://github.com/wuliwei9278/SSE-PT) - Codes and Datasets for paper RecSys'20 "SSE-PT: Sequential Recommendation Via Personalized Transformer" and NurIPS'19 "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank) - LibRerank is a toolkit for re-ranking algorithms. There are a number of re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
