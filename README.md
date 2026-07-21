@@ -17,7 +17,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -238,10 +237,6 @@
 ## LLVM 
 
 - [shumaikunkun/Hanoi](https://github.com/shumaikunkun/Hanoi) - 61種類のプログラミング言語でハノイの塔を実装【どなたでもプルリクお待ちしています☺️】
-
-## MDX 
-
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
 ## Makefile 
 
@@ -511,6 +506,7 @@
 - [robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym) - Robustness Gym is an evaluation toolkit for machine learning.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications for https://vespa.ai, the open big data serving engine
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [Layout-Parser/layout-model-training](https://github.com/Layout-Parser/layout-model-training) - The scripts for training Detectron2-based Layout Models on popular layout analysis datasets
 - [allenai/ir_datasets](https://github.com/allenai/ir_datasets) - Provides a common interface to many IR ranking datasets.
 - [ibm-research-tokyo/diffsnn](https://github.com/ibm-research-tokyo/diffsnn) - An implementation of a differentiable point process and a differentiable spiking neural network.
