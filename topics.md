@@ -1005,6 +1005,7 @@
 
 ## others 
 
+- [hakari-bench/hakari-bench](https://github.com/hakari-bench/hakari-bench) - ⚖️ HAKARI-Bench is a lightweight IR benchmark that rebuilds retrieval tasks as small Nano-sets, making model selection, regression checks, quantization, truncation, and reranking comparisons practical
 - [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - A Scalable Agentic RL Training Framework for Deep Research Agent
 - [softmatcha/softmatcha2](https://github.com/softmatcha/softmatcha2) - A fast and soft pattern search for trillion-scale corpora.
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
