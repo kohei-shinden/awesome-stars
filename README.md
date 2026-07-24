@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [hakari-bench/hakari-bench](https://github.com/hakari-bench/hakari-bench) - ⚖️ HAKARI-Bench is a lightweight IR benchmark that rebuilds retrieval tasks as small Nano-sets, making model selection, regression checks, quantization, truncation, and reranking comparisons practical
 - [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - A Scalable Agentic RL Training Framework for Deep Research Agent
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
