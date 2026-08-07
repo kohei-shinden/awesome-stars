@@ -701,7 +701,7 @@
 
 ## Vue 
 
-- [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
+- [emoji-gen/emoji-generator](https://github.com/emoji-gen/emoji-generator) - :tada: Ultimate Emoji Generator
 
 
 ## License
