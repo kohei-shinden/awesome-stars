@@ -884,7 +884,7 @@
 
 ## mysql 
 
-- [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
+- [emoji-gen/emoji-generator](https://github.com/emoji-gen/emoji-generator) - :tada: Ultimate Emoji Generator
 
 ## natural-language-processing 
 
@@ -1406,7 +1406,7 @@
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
+- [emoji-gen/emoji-generator](https://github.com/emoji-gen/emoji-generator) - :tada: Ultimate Emoji Generator
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1421,7 +1421,7 @@
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms) - Structural implementation of RL key algorithms
-- [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
+- [emoji-gen/emoji-generator](https://github.com/emoji-gen/emoji-generator) - :tada: Ultimate Emoji Generator
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 
@@ -1666,7 +1666,7 @@
 
 ## vue 
 
-- [emoji-gen/web-main](https://github.com/emoji-gen/web-main) - :tada: Ultimate Emoji Generator
+- [emoji-gen/emoji-generator](https://github.com/emoji-gen/emoji-generator) - :tada: Ultimate Emoji Generator
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 
 ## web 
