@@ -155,11 +155,11 @@
 
 ## agent 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
 ## agent-skills 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
 ## agents 
 
@@ -253,7 +253,7 @@
 
 ## awesome 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) - An index of algorithms for offline reinforcement learning (offline-rl)
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -279,7 +279,7 @@
 
 ## azure 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
 ## backend 
 
@@ -323,7 +323,7 @@
 
 ## claude 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 
@@ -744,7 +744,7 @@
 ## llm 
 
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -996,7 +996,7 @@
 
 ## openai 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1349,7 +1349,7 @@
 
 ## prompt-engineering 
 
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## pwa 
@@ -1486,7 +1486,7 @@
 ## rag 
 
 - [hirokawaguchi/open-genai](https://github.com/hirokawaguchi/open-genai) - デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。
-- [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
