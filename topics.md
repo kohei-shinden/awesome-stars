@@ -1195,7 +1195,7 @@
 - [xiangwang1223/knowledge_graph_attention_network](https://github.com/xiangwang1223/knowledge_graph_attention_network) - KGAT: Knowledge Graph Attention Network for Recommendation, KDD2019
 - [sansan-inc/lighthergm](https://github.com/sansan-inc/lighthergm) - Fit, Simulate, and Diagnose Hierarchical Exponential-Family Models for Networks in A Scalable Way
 - [hideojoho/kb](https://github.com/hideojoho/kb) - Joho Lab Knowledge Base 上保研究室ナレッジベース 1.0
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [sammy-suyama/BayesBook](https://github.com/sammy-suyama/BayesBook) - 「機械学習スタートアップシリーズ ベイズ推論による機械学習入門」のサンプルコード
 - [Linear95/BinarySentEmb](https://github.com/Linear95/BinarySentEmb) - Code for ACL 2019 oral paper - Learning Compressed Sentence Representations for On-Device Text Processing.
 - [takitsuba/midoribon](https://github.com/takitsuba/midoribon) - 
