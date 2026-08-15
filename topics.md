@@ -935,6 +935,7 @@
 
 ## nlp 
 
+- [hakari-bench/hakari-bench](https://github.com/hakari-bench/hakari-bench) - ⚖️ HAKARI-Bench is a lightweight IR benchmark that rebuilds retrieval tasks as small Nano-sets, making model selection, regression checks, quantization, truncation, and reranking comparisons practical
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [webis-de/small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python
@@ -1006,7 +1007,6 @@
 ## others 
 
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
-- [hakari-bench/hakari-bench](https://github.com/hakari-bench/hakari-bench) - ⚖️ HAKARI-Bench is a lightweight IR benchmark that rebuilds retrieval tasks as small Nano-sets, making model selection, regression checks, quantization, truncation, and reranking comparisons practical
 - [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - A Scalable Agentic RL Training Framework for Deep Research Agent
 - [softmatcha/softmatcha2](https://github.com/softmatcha/softmatcha2) - A fast and soft pattern search for trillion-scale corpora.
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
