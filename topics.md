@@ -1007,7 +1007,7 @@
 ## others 
 
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
-- [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - A Scalable Agentic RL Training Framework for Deep Research Agent
+- [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - [COLM 2026] A Scalable Agentic RL Training Framework for Deep Research Agent
 - [softmatcha/softmatcha2](https://github.com/softmatcha/softmatcha2) - A fast and soft pattern search for trillion-scale corpora.
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [arezooSarvi/outlierbias](https://github.com/arezooSarvi/outlierbias) - This repository contains the code used for the experiments in "On the Impact of Outlier Bias on User Clicks", which will be published at SIGIR 2023.
