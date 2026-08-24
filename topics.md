@@ -110,6 +110,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [privacy](#privacy)
 - [programming-language](#programming-language)
@@ -1334,6 +1335,10 @@
 - [tarotez/pyml](https://github.com/tarotez/pyml) - Machine learning course using Python
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us) - 
+
+## portfolio 
+
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 
 ## portfolio-website 
 
