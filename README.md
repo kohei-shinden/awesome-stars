@@ -128,6 +128,7 @@
 
 ## JavaScript 
 
+- [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) - worlds via code, from fable 5.1
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [joisino/clear](https://github.com/joisino/clear) - A fully user-side image search engine. Accepted to CIKM 2022 demo track.
