@@ -199,6 +199,7 @@
 
 ## ai-agents 
 
+- [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) - worlds via code, from fable 5.1
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
@@ -324,6 +325,7 @@
 
 ## claude 
 
+- [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) - worlds via code, from fable 5.1
 - [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
