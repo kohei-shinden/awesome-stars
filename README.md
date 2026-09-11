@@ -264,6 +264,7 @@
 
 ## Others 
 
+- [plll4zzx/Awesome-LLM-Watermark](https://github.com/plll4zzx/Awesome-LLM-Watermark) - A collection list for Large Language Model (LLM) Watermark
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [project-miracl/miracl](https://github.com/project-miracl/miracl) - A large-scale multilingual dataset for Information Retrieval. Thorough human-annotations across 18 diverse languages.
