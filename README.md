@@ -683,6 +683,7 @@
 
 ## TypeScript 
 
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [hirokawaguchi/open-genai](https://github.com/hirokawaguchi/open-genai) - デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [minosvasilias/toolformer-zero](https://github.com/minosvasilias/toolformer-zero) - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
