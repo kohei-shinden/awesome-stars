@@ -623,6 +623,7 @@
 
 ## R 
 
+- [natverse/malecns](https://github.com/natverse/malecns) - Access to the latest 'Janelia FlyEM' datasets
 - [ghmagazine/cibook](https://github.com/ghmagazine/cibook) - 
 - [sansan-inc/lighthergm](https://github.com/sansan-inc/lighthergm) - Fit, Simulate, and Diagnose Hierarchical Exponential-Family Models for Networks in A Scalable Way
 
