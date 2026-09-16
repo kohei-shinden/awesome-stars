@@ -1010,6 +1010,7 @@
 
 ## others 
 
+- [natverse/malecns](https://github.com/natverse/malecns) - Access to the latest 'Janelia FlyEM' datasets
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
 - [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - [COLM 2026] A Scalable Agentic RL Training Framework for Deep Research Agent
