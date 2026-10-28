@@ -587,7 +587,7 @@
 - [yinwenpeng/BenchmarkingZeroShot](https://github.com/yinwenpeng/BenchmarkingZeroShot) - 
 - [spotify-research/cosernn](https://github.com/spotify-research/cosernn) - Code for the paper "Contextual and Sequential User Embeddings for Large-Scale Music Recommendation".
 - [google-deepmind/jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax
-- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
+- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning and latent world models on images.
 - [google-research/electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [hottolink/hottoSNS-w2v](https://github.com/hottolink/hottoSNS-w2v) - hottoSNS-w2v: 日本語大規模SNS+Webコーパスによる単語分散表現モデル
 - [lgalke/vec4ir](https://github.com/lgalke/vec4ir) - Word Embeddings for Information Retrieval
@@ -637,6 +637,7 @@
 
 ## Rust 
 
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
