@@ -285,7 +285,6 @@
 - [ir100/ir100](https://github.com/ir100/ir100) - 情報検索100本ノック
 - [faneshion/HiNT](https://github.com/faneshion/HiNT) - Implementation of Hierarchical Neural maTching model proposed in SIGIR'18 for ad-hoc retrieval
 - [chauff/conversationalIR](https://github.com/chauff/conversationalIR) - Overview of venues, research themes and datasets relevant for conversational search.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [yasoob/Flask-React-JWT](https://github.com/yasoob/Flask-React-JWT) - A tutorial on how to setup a JWT auth app using React and Flask and then deploy it using NGINX and Gunicorn.
 - [hideojoho/kb](https://github.com/hideojoho/kb) - Joho Lab Knowledge Base 上保研究室ナレッジベース 1.0
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
@@ -488,6 +487,7 @@
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [annamalai-nr/subgraph2vec_gensim](https://github.com/annamalai-nr/subgraph2vec_gensim) - Contains the code (and working vm setup) for our KDD MLG 2016 paper titled: "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs"
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [sansan-inc/OneNER](https://github.com/sansan-inc/OneNER) - 
 - [st-tech/zr-obp](https://github.com/st-tech/zr-obp) - Open Bandit Pipeline: a python library for bandit algorithms and off-policy evaluation
 - [nttcslab/japanese-dialog-transformers](https://github.com/nttcslab/japanese-dialog-transformers) - Code for evaluating Japanese pretrained models provided by NTT Ltd.
