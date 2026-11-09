@@ -80,6 +80,7 @@
 - [javascript](#javascript)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
@@ -721,6 +722,18 @@
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 
+## knowledge-graph 
+
+- [yao8839836/kg-bert](https://github.com/yao8839836/kg-bert) - KG-BERT: BERT for Knowledge Graph Completion
+- [sisinflab/elliot](https://github.com/sisinflab/elliot) - Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
+- [INK-USC/RE-Net](https://github.com/INK-USC/RE-Net) - Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)
+- [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
+- [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
+- [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
+- [Mehran-k/SimplE](https://github.com/Mehran-k/SimplE) - SimplE Embedding for Link Prediction in Knowledge Graphs
+- [xiangwang1223/knowledge_graph_attention_network](https://github.com/xiangwang1223/knowledge_graph_attention_network) - KGAT: Knowledge Graph Attention Network for Recommendation, KDD2019
+- [KnowledgeGraphJapan/KGRC-RDF](https://github.com/KnowledgeGraphJapan/KGRC-RDF) - RDF data for Knowledge Graph Reasoning Challenge.
+
 ## kubernetes 
 
 - [m3dev/kannon](https://github.com/m3dev/kannon) - Kannon is a wrapper for the gokart library that allows gokart tasks to be easily executed in a distributed and parallel manner on multiple kubernetes jobs.
@@ -1051,7 +1064,6 @@
 - [shunk031/huggingface-datasets_JGLUE](https://github.com/shunk031/huggingface-datasets_JGLUE) - JGLUE: Japanese General Language Understanding Evaluation for huggingface datasets
 - [facebookresearch/dpr-scale](https://github.com/facebookresearch/dpr-scale) - Scalable training for dense retrieval models.
 - [minosvasilias/toolformer-zero](https://github.com/minosvasilias/toolformer-zero) - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
-- [yao8839836/kg-bert](https://github.com/yao8839836/kg-bert) - KG-BERT: BERT for Knowledge Graph Completion
 - [ntcirtransfer/transfer1](https://github.com/ntcirtransfer/transfer1) - Repository for NTCIR-17 Transfer Task
 - [acheong08/ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject cloudflare cookies
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
@@ -1071,7 +1083,6 @@
 - [kohei-shinden/awesome-stars](https://github.com/kohei-shinden/awesome-stars) - A curated list of my GitHub stars!
 - [thunlp/KB2E](https://github.com/thunlp/KB2E) - Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
-- [INK-USC/RE-Net](https://github.com/INK-USC/RE-Net) - Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)
 - [hungpthanh/GRU4REC-pytorch](https://github.com/hungpthanh/GRU4REC-pytorch) - An other implementation of GRU4REC using PyTorch
 - [recsyslab/recsys-text](https://github.com/recsyslab/recsys-text) - 
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -1144,7 +1155,6 @@
 - [unicamp-dl/mMARCO](https://github.com/unicamp-dl/mMARCO) - A multilingual version of MS MARCO passage ranking dataset
 - [lpworld/PURS](https://github.com/lpworld/PURS) - 
 - [kn1cht/doctor-funding-calendar](https://github.com/kn1cht/doctor-funding-calendar) - Calendar of doctoral students funding programs
-- [snap-stanford/GreaseLM](https://github.com/snap-stanford/GreaseLM) - [ICLR 2022 spotlight]GreaseLM: Graph REASoning Enhanced Language Models for Question Answering
 - [yahoojapan/vespa-tutorial](https://github.com/yahoojapan/vespa-tutorial) - Japanese tutorial for Vespa
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [mooreniemi/suntan](https://github.com/mooreniemi/suntan) - A utility to dump Elasticsearch Lucene shards into Tantivy.
@@ -1174,7 +1184,6 @@
 - [cl-tohoku/AIO2_DPR_baseline](https://github.com/cl-tohoku/AIO2_DPR_baseline) - https://www.nlp.ecei.tohoku.ac.jp/projects/aio/
 - [dstlry/dstlr](https://github.com/dstlry/dstlr) - scalable knowledge graph construction from unstructured text
 - [PengjieRen/CaSE_WISE](https://github.com/PengjieRen/CaSE_WISE) - This repo contains the code and data used in the paper "Wizard of Search Engine: Access to Information Through Conversations with Search Engines"
-- [Sujit-O/pykg2vec](https://github.com/Sujit-O/pykg2vec) - Python library for knowledge graph embedding and representation learning.
 - [baharefatemi/SimplE](https://github.com/baharefatemi/SimplE) - Implementation of SimplE Embedding for Link Prediction in Knowledge Graphs in PyTorch
 - [mnick/holographic-embeddings](https://github.com/mnick/holographic-embeddings) - Code for experiments in the AAAI 2016 paper "Holographic Embeddings of Knowledge Graphs"
 - [susheels/gnns-and-local-assortativity](https://github.com/susheels/gnns-and-local-assortativity) - This repo contains a reference implementation for the paper "Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns"
@@ -1206,7 +1215,6 @@
 - [yagays/wikipedia_graph_embedding](https://github.com/yagays/wikipedia_graph_embedding) - 
 - [isucon/isucon11-qualify](https://github.com/isucon/isucon11-qualify) - ISUCON11 予選 (ISUCONDITION)
 - [xptree/LightNE](https://github.com/xptree/LightNE) - 
-- [xiangwang1223/knowledge_graph_attention_network](https://github.com/xiangwang1223/knowledge_graph_attention_network) - KGAT: Knowledge Graph Attention Network for Recommendation, KDD2019
 - [sansan-inc/lighthergm](https://github.com/sansan-inc/lighthergm) - Fit, Simulate, and Diagnose Hierarchical Exponential-Family Models for Networks in A Scalable Way
 - [hideojoho/kb](https://github.com/hideojoho/kb) - Joho Lab Knowledge Base 上保研究室ナレッジベース 1.0
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
@@ -1241,7 +1249,6 @@
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
-- [KnowledgeGraphJapan/KGRC-RDF](https://github.com/KnowledgeGraphJapan/KGRC-RDF) - RDF data for Knowledge Graph Reasoning Challenge.
 - [AdeDZY/DeepCT](https://github.com/AdeDZY/DeepCT) - DeepCT and HDCT uses BERT to generate novel, context-aware bag-of-words term weights for documents and queries.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [UTokyo-ICEPP/qc-workbook](https://github.com/UTokyo-ICEPP/qc-workbook) - Quantum computing workbook by ICEPP
