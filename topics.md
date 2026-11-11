@@ -152,6 +152,7 @@
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [workflow](#workflow)
 - [xml](#xml)
@@ -1704,6 +1705,10 @@
 ## web-development 
 
 - [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
+
+## whatsapp 
+
+- [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 
 ## windows 
 
