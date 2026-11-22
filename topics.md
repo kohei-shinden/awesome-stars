@@ -1035,6 +1035,7 @@
 
 ## others 
 
+- [ZhanGHanG9991/AutoRAGBench](https://github.com/ZhanGHanG9991/AutoRAGBench) - 
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [natverse/malecns](https://github.com/natverse/malecns) - Access to the latest 'Janelia FlyEM' datasets
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
