@@ -120,6 +120,7 @@
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
 - [terrier-org/terrier-core](https://github.com/terrier-org/terrier-core) - Terrier IR Platform
+- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [ppasupat/web-entity-extractor-ACL2014](https://github.com/ppasupat/web-entity-extractor-ACL2014) - 
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [tmanabe/RankLibBM25F-IA](https://github.com/tmanabe/RankLibBM25F-IA) - A Learning to Rank Library
@@ -551,7 +552,6 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [cmacdonald/pyterrier_bert](https://github.com/cmacdonald/pyterrier_bert) - 
 - [microsoft/MSMARCO-Document-Ranking](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage/document ranking
-- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [WorksApplications/SudachiDict](https://github.com/WorksApplications/SudachiDict) - A lexicon for Sudachi
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
