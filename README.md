@@ -269,6 +269,7 @@
 
 ## Others 
 
+- [DataScienceUIBK/LLM-Retrievers-Beyond-Relevance](https://github.com/DataScienceUIBK/LLM-Retrievers-Beyond-Relevance) - Official repository for "Are LLM-Based Retrievers Worth Their Cost? An Empirical Study of Efficiency, Robustness, and Reasoning Overhead", accepted at SIGIR 2026.
 - [plll4zzx/Awesome-LLM-Watermark](https://github.com/plll4zzx/Awesome-LLM-Watermark) - A collection list for Large Language Model (LLM) Watermark
 - [kunishou/databricks-dolly-15k-ja](https://github.com/kunishou/databricks-dolly-15k-ja) - 
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -309,6 +310,7 @@
 
 ## Python 
 
+- [xlang-ai/BRIGHT](https://github.com/xlang-ai/BRIGHT) - [ICLR 2025] BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval
 - [ZhanGHanG9991/AutoRAGBench](https://github.com/ZhanGHanG9991/AutoRAGBench) - 
 - [hakari-bench/hakari-bench](https://github.com/hakari-bench/hakari-bench) - ⚖️ HAKARI-Bench is a lightweight IR benchmark that rebuilds retrieval tasks as small Nano-sets, making model selection, regression checks, quantization, truncation, and reranking comparisons practical
 - [simplexai-labs/LiteResearcher](https://github.com/simplexai-labs/LiteResearcher) - [COLM 2026] A Scalable Agentic RL Training Framework for Deep Research Agent
