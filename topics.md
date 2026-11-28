@@ -1035,6 +1035,8 @@
 
 ## others 
 
+- [xlang-ai/BRIGHT](https://github.com/xlang-ai/BRIGHT) - [ICLR 2025] BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval
+- [DataScienceUIBK/LLM-Retrievers-Beyond-Relevance](https://github.com/DataScienceUIBK/LLM-Retrievers-Beyond-Relevance) - Official repository for "Are LLM-Based Retrievers Worth Their Cost? An Empirical Study of Efficiency, Robustness, and Reasoning Overhead", accepted at SIGIR 2026.
 - [ZhanGHanG9991/AutoRAGBench](https://github.com/ZhanGHanG9991/AutoRAGBench) - 
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [natverse/malecns](https://github.com/natverse/malecns) - Access to the latest 'Janelia FlyEM' datasets
